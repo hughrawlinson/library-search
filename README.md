@@ -20,3 +20,9 @@ search. Use the first argument to specify the query.
 ```sh
 LIBRARIES="fls,afls" library-search "a fictional book"
 ```
+
+If you would like to search for ebooks instead of audiobooks specify "book" before the query:
+
+```sh
+LIBRARIES="fls,afls" library-search "book" "a fictional book"
+```

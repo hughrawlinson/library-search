@@ -54,6 +54,10 @@ type BookSearchResult = Book & { library: string };
 
 const libraries = process.env.LIBRARIES?.split(",");
 const query = process.argv[process.argv.length - 1];
+let format = "audiobook-overdrive"
+if (process.argv[process.argv.length - 2].includes("book")) {
+  format = "ebook-kindle"
+}
 
 if (!libraries) {
   console.log(
@@ -63,7 +67,7 @@ if (!libraries) {
 }
 
 const results = libraries.flatMap(async (library: string) => {
-  const url = `https://${library}.overdrive.com/search?format=audiobook-overdrive&query=${encodeURIComponent(
+  const url = `https://${library}.overdrive.com/search?format=${format}&query=${encodeURIComponent(
     query
   )}`;
   const result = await (await fetch(url)).text();
