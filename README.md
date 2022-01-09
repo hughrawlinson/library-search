@@ -8,7 +8,9 @@ would have to deal with CORS.
 
 ## Installation
 
-I think you can install a
+```sh
+npm install --global https://github.com/hughrawlinson/library-search
+```
 
 ## Usage
 
