@@ -1,5 +1,4 @@
-#!/usr/bin/env -S node --loader ts-node/esm -r dotenv/config ./src/index.ts
-import "./env.ts";
+#!/usr/bin/env -S node --loader ts-node/esm ./src/index.ts
 import fetch from "node-fetch";
 
 interface EbookType {
