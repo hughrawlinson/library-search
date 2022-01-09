@@ -83,4 +83,4 @@ const results = libraries.flatMap(async (library: string) => {
   return books;
 });
 
-console.log(await Promise.all(results));
+console.log(JSON.stringify(await Promise.all(results)));
