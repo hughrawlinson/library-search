@@ -56,7 +56,14 @@ type BookSearchResult = Book & { library: string };
 const libraries = process.env.LIBRARIES?.split(",");
 const query = process.argv[1];
 
-libraries?.forEach(async (library: string) => {
+if (!libraries) {
+  console.log(
+    "Specify libraries as a comma separated string in the `LIBRARIES` environment variable"
+  );
+  throw new Error("No libraries provided");
+}
+
+const results = libraries.flatMap(async (library: string) => {
   const url = `https://${library}.overdrive.com/search?format=audiobook-overdrive&query=${encodeURIComponent(
     query
   )}`;
@@ -73,5 +80,7 @@ libraries?.forEach(async (library: string) => {
     link: `https://${library}.overdrive.com/media/${book.id}`,
     ...book,
   }));
-  console.log(JSON.stringify(books, null, 2));
+  return books;
 });
+
+console.log(await Promise.all(results));
