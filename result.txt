@@ -1,0 +1,7367 @@
+[
+  [
+    {
+      "library": "sfpl",
+      "link": "https://sfpl.overdrive.com/media/6207916",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Penguin Random House Audio Publishing Group",
+        "id": "93905"
+      },
+      "creators": [
+        {
+          "id": 2474012,
+          "role": "Author",
+          "name": "Mondiant Dogon"
+        },
+        {
+          "id": 1475260,
+          "role": "Author",
+          "name": "Jenna Krajeski"
+        },
+        {
+          "id": 222532,
+          "role": "Narrator",
+          "name": "Dominic Hoffman"
+        }
+      ],
+      "title": "Those We Throw Away Are Diamonds",
+      "id": "6207916"
+    },
+    {
+      "library": "sfpl",
+      "link": "https://sfpl.overdrive.com/media/936892",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 129861,
+          "role": "Author",
+          "name": "Shelley Shepard Gray"
+        },
+        {
+          "id": 167134,
+          "role": "Narrator",
+          "name": "Bernadette Dunne"
+        }
+      ],
+      "title": "The Search",
+      "id": "936892"
+    },
+    {
+      "library": "sfpl",
+      "link": "https://sfpl.overdrive.com/media/482115",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Oasis Audio",
+        "id": "6303"
+      },
+      "creators": [
+        {
+          "id": 538509,
+          "role": "Author",
+          "name": "Suzanne Woods Fisher"
+        },
+        {
+          "id": 333211,
+          "role": "Narrator",
+          "name": "Cassandra Campbell"
+        }
+      ],
+      "title": "The Search",
+      "id": "482115"
+    },
+    {
+      "library": "sfpl",
+      "link": "https://sfpl.overdrive.com/media/2246450",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Tantor Media, Inc.",
+        "id": "95540"
+      },
+      "creators": [
+        {
+          "id": 364709,
+          "role": "Author",
+          "name": "Mark Tufo"
+        },
+        {
+          "id": 381355,
+          "role": "Narrator",
+          "name": "Sean Runnette"
+        }
+      ],
+      "title": "Dr. Hugh Mann",
+      "id": "2246450"
+    },
+    {
+      "library": "sfpl",
+      "link": "https://sfpl.overdrive.com/media/4245372",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Blackstone Publishing",
+        "id": "121637"
+      },
+      "creators": [
+        {
+          "id": 265084,
+          "role": "Author",
+          "name": "Hugh Ryan"
+        },
+        {
+          "id": 265084,
+          "role": "Narrator",
+          "name": "Hugh Ryan"
+        }
+      ],
+      "title": "When Brooklyn Was Queer",
+      "id": "4245372"
+    },
+    {
+      "library": "sfpl",
+      "link": "https://sfpl.overdrive.com/media/3512346",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "AB Publishing",
+        "id": "137494"
+      },
+      "creators": [
+        {
+          "id": 1427231,
+          "role": "Author",
+          "name": "Jelen Harris"
+        },
+        {
+          "id": 1373465,
+          "role": "Narrator",
+          "name": "Eugene Tarasov"
+        }
+      ],
+      "title": "Memory Development",
+      "id": "3512346"
+    },
+    {
+      "library": "sfpl",
+      "link": "https://sfpl.overdrive.com/media/197243",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Blackstone Publishing",
+        "id": "121637"
+      },
+      "creators": [
+        {
+          "id": 521715,
+          "role": "Author",
+          "name": "Steven Watts"
+        },
+        {
+          "id": 68576,
+          "role": "Narrator",
+          "name": "Ray Porter"
+        }
+      ],
+      "title": "Mr. Playboy",
+      "id": "197243"
+    },
+    {
+      "library": "sfpl",
+      "link": "https://sfpl.overdrive.com/media/981918",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The Murder of Roger Ackroyd",
+      "id": "981918"
+    },
+    {
+      "library": "sfpl",
+      "link": "https://sfpl.overdrive.com/media/970794",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The ABC Murders",
+      "id": "970794"
+    },
+    {
+      "library": "sfpl",
+      "link": "https://sfpl.overdrive.com/media/90621",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Blackstone Publishing",
+        "id": "121637"
+      },
+      "creators": [
+        {
+          "id": 564529,
+          "role": "Author",
+          "name": "Thomas Sowell"
+        },
+        {
+          "id": 265284,
+          "role": "Narrator",
+          "name": "Hugh Mann"
+        }
+      ],
+      "title": "Black Rednecks and White Liberals",
+      "id": "90621"
+    },
+    {
+      "library": "sfpl",
+      "link": "https://sfpl.overdrive.com/media/1002953",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The Mysterious Affair at Styles",
+      "id": "1002953"
+    },
+    {
+      "library": "sfpl",
+      "link": "https://sfpl.overdrive.com/media/970680",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "Curtain: Poirot's Last Case",
+      "id": "970680"
+    },
+    {
+      "library": "sfpl",
+      "link": "https://sfpl.overdrive.com/media/970738",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "Mrs. McGinty's Dead",
+      "id": "970738"
+    },
+    {
+      "library": "sfpl",
+      "link": "https://sfpl.overdrive.com/media/258270",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Books on Tape",
+        "id": "1686"
+      },
+      "creators": [
+        {
+          "id": 317756,
+          "role": "Author",
+          "name": "Hugh Ambrose"
+        },
+        {
+          "id": 502310,
+          "role": "Narrator",
+          "name": "Mike Chamberlain"
+        }
+      ],
+      "title": "The Pacific",
+      "id": "258270"
+    },
+    {
+      "library": "sfpl",
+      "link": "https://sfpl.overdrive.com/media/1076462",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperCollins",
+        "id": "582"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        },
+        {
+          "id": 136035,
+          "role": "Copyright holder",
+          "name": "&#169;2003, 2004 by HarperCollinsPublishers"
+        }
+      ],
+      "title": "Towards Zero and Ordeal by Innocence",
+      "id": "1076462"
+    },
+    {
+      "library": "sfpl",
+      "link": "https://sfpl.overdrive.com/media/970762",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "One, Two, Buckle My Shoe",
+      "id": "970762"
+    },
+    {
+      "library": "sfpl",
+      "link": "https://sfpl.overdrive.com/media/970784",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "Sparkling Cyanide",
+      "id": "970784"
+    },
+    {
+      "library": "sfpl",
+      "link": "https://sfpl.overdrive.com/media/451818",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Macmillan Audio",
+        "id": "2166"
+      },
+      "creators": [
+        {
+          "id": 133519,
+          "role": "Author",
+          "name": "Michael Cunningham"
+        },
+        {
+          "id": 89769,
+          "role": "Narrator",
+          "name": "Hugh Dancy"
+        }
+      ],
+      "title": "By Nightfall",
+      "id": "451818"
+    },
+    {
+      "library": "sfpl",
+      "link": "https://sfpl.overdrive.com/media/1155199",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The Gate of Baghdad",
+      "id": "1155199"
+    },
+    {
+      "library": "sfpl",
+      "link": "https://sfpl.overdrive.com/media/981926",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "Towards Zero",
+      "id": "981926"
+    },
+    {
+      "library": "sfpl",
+      "link": "https://sfpl.overdrive.com/media/5371125",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Tantor Media, Inc.",
+        "id": "95540"
+      },
+      "creators": [
+        {
+          "id": 152868,
+          "role": "Author",
+          "name": "Eric Hobsbawm"
+        },
+        {
+          "id": 1322734,
+          "role": "Narrator",
+          "name": "Hugh Kermode"
+        }
+      ],
+      "title": "The Age of Extremes",
+      "id": "5371125"
+    },
+    {
+      "library": "sfpl",
+      "link": "https://sfpl.overdrive.com/media/5371124",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Tantor Media, Inc.",
+        "id": "95540"
+      },
+      "creators": [
+        {
+          "id": 152868,
+          "role": "Author",
+          "name": "Eric Hobsbawm"
+        },
+        {
+          "id": 1322734,
+          "role": "Narrator",
+          "name": "Hugh Kermode"
+        }
+      ],
+      "title": "The Age of Empire",
+      "id": "5371124"
+    },
+    {
+      "library": "sfpl",
+      "link": "https://sfpl.overdrive.com/media/5276807",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Tantor Media, Inc.",
+        "id": "95540"
+      },
+      "creators": [
+        {
+          "id": 152868,
+          "role": "Author",
+          "name": "Eric Hobsbawm"
+        },
+        {
+          "id": 1322734,
+          "role": "Narrator",
+          "name": "Hugh Kermode"
+        }
+      ],
+      "title": "The Age of Revolution",
+      "id": "5276807"
+    },
+    {
+      "library": "sfpl",
+      "link": "https://sfpl.overdrive.com/media/5276806",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Tantor Media, Inc.",
+        "id": "95540"
+      },
+      "creators": [
+        {
+          "id": 152868,
+          "role": "Author",
+          "name": "Eric Hobsbawm"
+        },
+        {
+          "id": 1322734,
+          "role": "Narrator",
+          "name": "Hugh Kermode"
+        }
+      ],
+      "title": "The Age of Capital",
+      "id": "5276806"
+    }
+  ],
+  [
+    {
+      "library": "essexcountyuk",
+      "link": "https://essexcountyuk.overdrive.com/media/530382",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "AudioGO Ltd",
+        "id": "3858"
+      },
+      "creators": [
+        {
+          "id": 311099,
+          "role": "Author",
+          "name": "Caroline Graham"
+        },
+        {
+          "id": 525648,
+          "role": "Narrator",
+          "name": "Hugh Ross"
+        },
+        {
+          "id": 298564,
+          "role": "Copyright holder",
+          "name": "&#169;AudioGO Ltd 2011"
+        }
+      ],
+      "title": "Death in Disguise",
+      "id": "530382"
+    },
+    {
+      "library": "essexcountyuk",
+      "link": "https://essexcountyuk.overdrive.com/media/5560750",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "W F Howes",
+        "id": "166384"
+      },
+      "creators": [
+        {
+          "id": 333905,
+          "role": "Author",
+          "name": "Michael Bond"
+        },
+        {
+          "id": 152035,
+          "role": "Narrator",
+          "name": "Hugh Bonneville"
+        }
+      ],
+      "title": "Paddington Takes the Test and Other Stories",
+      "id": "5560750"
+    },
+    {
+      "library": "essexcountyuk",
+      "link": "https://essexcountyuk.overdrive.com/media/5560749",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "W F Howes",
+        "id": "166384"
+      },
+      "creators": [
+        {
+          "id": 333905,
+          "role": "Author",
+          "name": "Michael Bond"
+        },
+        {
+          "id": 152035,
+          "role": "Narrator",
+          "name": "Hugh Bonneville"
+        }
+      ],
+      "title": "Paddington On Top and Other Stories",
+      "id": "5560749"
+    },
+    {
+      "library": "essexcountyuk",
+      "link": "https://essexcountyuk.overdrive.com/media/5560748",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "W F Howes",
+        "id": "166384"
+      },
+      "creators": [
+        {
+          "id": 333905,
+          "role": "Author",
+          "name": "Michael Bond"
+        },
+        {
+          "id": 152035,
+          "role": "Narrator",
+          "name": "Hugh Bonneville"
+        }
+      ],
+      "title": "Paddington at Work and Other Stories",
+      "id": "5560748"
+    },
+    {
+      "library": "essexcountyuk",
+      "link": "https://essexcountyuk.overdrive.com/media/333144",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "AudioGO Ltd",
+        "id": "3858"
+      },
+      "creators": [
+        {
+          "id": 27758,
+          "role": "Author and narrator",
+          "name": "Bill Bryson"
+        },
+        {
+          "id": 262120,
+          "role": "Copyright holder",
+          "name": "©BBC Audiobooks Ltd 2010"
+        }
+      ],
+      "title": "At Home",
+      "id": "333144"
+    },
+    {
+      "library": "essexcountyuk",
+      "link": "https://essexcountyuk.overdrive.com/media/5563339",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "W F Howes",
+        "id": "166384"
+      },
+      "creators": [
+        {
+          "id": 403313,
+          "role": "Author",
+          "name": "Fern Britton"
+        },
+        {
+          "id": 725186,
+          "role": "Narrator",
+          "name": "Helen Lloyd"
+        }
+      ],
+      "title": "Coming Home",
+      "id": "5563339"
+    },
+    {
+      "library": "essexcountyuk",
+      "link": "https://essexcountyuk.overdrive.com/media/5263834",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "W F Howes",
+        "id": "166384"
+      },
+      "creators": [
+        {
+          "id": 100406,
+          "role": "Author",
+          "name": "Erica James"
+        },
+        {
+          "id": 513067,
+          "role": "Narrator",
+          "name": "Jenny Funnell"
+        }
+      ],
+      "title": "Coming Home to Island House",
+      "id": "5263834"
+    },
+    {
+      "library": "essexcountyuk",
+      "link": "https://essexcountyuk.overdrive.com/media/3640527",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "W F Howes",
+        "id": "166384"
+      },
+      "creators": [
+        {
+          "id": 66448,
+          "role": "Author",
+          "name": "Rosie Goodwin"
+        },
+        {
+          "id": 612852,
+          "role": "Narrator",
+          "name": "Gabrielle Glaister"
+        }
+      ],
+      "title": "Home Front Girls",
+      "id": "3640527"
+    },
+    {
+      "library": "essexcountyuk",
+      "link": "https://essexcountyuk.overdrive.com/media/3640683",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "W F Howes",
+        "id": "166384"
+      },
+      "creators": [
+        {
+          "id": 400185,
+          "role": "Author",
+          "name": "A.M. Homes"
+        },
+        {
+          "id": 392255,
+          "role": "Narrator",
+          "name": "Nathan Osgood"
+        }
+      ],
+      "title": "May We Be Forgiven",
+      "id": "3640683"
+    },
+    {
+      "library": "essexcountyuk",
+      "link": "https://essexcountyuk.overdrive.com/media/3640914",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "W F Howes",
+        "id": "166384"
+      },
+      "creators": [
+        {
+          "id": 216577,
+          "role": "Author",
+          "name": "Colum McCann"
+        },
+        {
+          "id": 210719,
+          "role": "Narrator",
+          "name": "Geraldine Hughes"
+        }
+      ],
+      "title": "TransAtlantic",
+      "id": "3640914"
+    },
+    {
+      "library": "essexcountyuk",
+      "link": "https://essexcountyuk.overdrive.com/media/4840345",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Lerner Publishing Group",
+        "id": "1333"
+      },
+      "creators": [
+        {
+          "id": 365371,
+          "role": "Author",
+          "name": "Jon M. Fishman"
+        },
+        {
+          "id": 1260929,
+          "role": "Narrator",
+          "name": "Book Buddy Digital Media"
+        }
+      ],
+      "title": "Baseball Superstar Aaron Judge",
+      "id": "4840345"
+    },
+    {
+      "library": "essexcountyuk",
+      "link": "https://essexcountyuk.overdrive.com/media/4840360",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Lerner Publishing Group",
+        "id": "1333"
+      },
+      "creators": [
+        {
+          "id": 62360,
+          "role": "Author",
+          "name": "Laura Hamilton Waxman"
+        },
+        {
+          "id": 1260929,
+          "role": "Narrator",
+          "name": "Book Buddy Digital Media"
+        }
+      ],
+      "title": "Let's Explore Needs and Wants",
+      "id": "4840360"
+    }
+  ],
+  [
+    {
+      "library": "librariesunlimited",
+      "link": "https://librariesunlimited.overdrive.com/media/5273745",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperCollins Publishers",
+        "id": "5073"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The Mystery of the Spanish Chest",
+      "id": "5273745"
+    },
+    {
+      "library": "librariesunlimited",
+      "link": "https://librariesunlimited.overdrive.com/media/5273744",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperCollins Publishers",
+        "id": "5073"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The Man in the Mist",
+      "id": "5273744"
+    },
+    {
+      "library": "librariesunlimited",
+      "link": "https://librariesunlimited.overdrive.com/media/3951654",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "W F Howes",
+        "id": "166384"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "Third Girl",
+      "id": "3951654"
+    },
+    {
+      "library": "librariesunlimited",
+      "link": "https://librariesunlimited.overdrive.com/media/3951627",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "W F Howes",
+        "id": "166384"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The Mysterious Affair At Styles",
+      "id": "3951627"
+    },
+    {
+      "library": "librariesunlimited",
+      "link": "https://librariesunlimited.overdrive.com/media/3951566",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "W F Howes",
+        "id": "166384"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The ABC Murders",
+      "id": "3951566"
+    },
+    {
+      "library": "librariesunlimited",
+      "link": "https://librariesunlimited.overdrive.com/media/3320731",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Recorded Books, Inc.",
+        "id": "223131"
+      },
+      "creators": [
+        {
+          "id": 337408,
+          "role": "Author",
+          "name": "Charles Todd"
+        },
+        {
+          "id": 220186,
+          "role": "Narrator",
+          "name": "Samuel Gillies"
+        }
+      ],
+      "title": "Search the Dark",
+      "id": "3320731"
+    },
+    {
+      "library": "librariesunlimited",
+      "link": "https://librariesunlimited.overdrive.com/media/2298582",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Blackstone Publishing",
+        "id": "121637"
+      },
+      "creators": [
+        {
+          "id": 136209,
+          "role": "Author",
+          "name": "Ransom Riggs"
+        },
+        {
+          "id": 141905,
+          "role": "Narrator",
+          "name": "Kirby Heyborne"
+        }
+      ],
+      "title": "Library of Souls",
+      "id": "2298582"
+    },
+    {
+      "library": "librariesunlimited",
+      "link": "https://librariesunlimited.overdrive.com/media/453672",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "BBC Audio",
+        "id": "139071"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 85748,
+          "role": "Narrator",
+          "name": "Full Cast"
+        },
+        {
+          "id": 203012,
+          "role": "Narrator",
+          "name": "Jack Watling"
+        },
+        {
+          "id": 281928,
+          "role": "Narrator",
+          "name": "June Whitfield"
+        },
+        {
+          "id": 1491151,
+          "role": "Narrator",
+          "name": "Pauline Jameson"
+        }
+      ],
+      "title": "The Body in Library",
+      "id": "453672"
+    },
+    {
+      "library": "librariesunlimited",
+      "link": "https://librariesunlimited.overdrive.com/media/1396847",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Oakhill Publishing Limited",
+        "id": "2820"
+      },
+      "creators": [
+        {
+          "id": 664081,
+          "role": "Author",
+          "name": "A.M Dean"
+        },
+        {
+          "id": 2547,
+          "role": "Narrator",
+          "name": "Lewis Hancock"
+        }
+      ],
+      "title": "The Lost Library",
+      "id": "1396847"
+    },
+    {
+      "library": "librariesunlimited",
+      "link": "https://librariesunlimited.overdrive.com/media/2240743",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Oakhill Publishing Limited",
+        "id": "2820"
+      },
+      "creators": [
+        {
+          "id": 549332,
+          "role": "Author",
+          "name": "David Whitehouse"
+        },
+        {
+          "id": 556233,
+          "role": "Narrator",
+          "name": "Joe Coen"
+        }
+      ],
+      "title": "Mobile Library",
+      "id": "2240743"
+    },
+    {
+      "library": "librariesunlimited",
+      "link": "https://librariesunlimited.overdrive.com/media/5561007",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "W F Howes",
+        "id": "166384"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 422120,
+          "role": "Narrator",
+          "name": "Stephanie Cole"
+        }
+      ],
+      "title": "The Body in the Library",
+      "id": "5561007"
+    },
+    {
+      "library": "librariesunlimited",
+      "link": "https://librariesunlimited.overdrive.com/media/3581018",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperCollins Publishers",
+        "id": "5073"
+      },
+      "creators": [
+        {
+          "id": 333905,
+          "role": "Author",
+          "name": "Michael Bond"
+        },
+        {
+          "id": 152035,
+          "role": "Narrator",
+          "name": "Hugh Bonneville"
+        },
+        {
+          "id": 137205,
+          "role": "Narrator",
+          "name": "Stephen Fry"
+        }
+      ],
+      "title": "Paddington Turns Detective and Other Funny Stories",
+      "id": "3581018"
+    },
+    {
+      "library": "librariesunlimited",
+      "link": "https://librariesunlimited.overdrive.com/media/606169",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Random House Audiobooks",
+        "id": "4802"
+      },
+      "creators": [
+        {
+          "id": 27758,
+          "role": "Author",
+          "name": "Bill Bryson"
+        },
+        {
+          "id": 27758,
+          "role": "Narrator",
+          "name": "Bill Bryson"
+        }
+      ],
+      "title": "At Home",
+      "id": "606169"
+    },
+    {
+      "library": "librariesunlimited",
+      "link": "https://librariesunlimited.overdrive.com/media/453690",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "BBC Audio",
+        "id": "139071"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 85748,
+          "role": "Narrator",
+          "name": "Full Cast"
+        },
+        {
+          "id": 152035,
+          "role": "Narrator",
+          "name": "Hugh Bonneville"
+        },
+        {
+          "id": 1491163,
+          "role": "Narrator",
+          "name": "Marcia Warren"
+        },
+        {
+          "id": 510437,
+          "role": "Narrator",
+          "name": "Philip Fox"
+        }
+      ],
+      "title": "Towards Zero",
+      "id": "453690"
+    },
+    {
+      "library": "librariesunlimited",
+      "link": "https://librariesunlimited.overdrive.com/media/249836",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "BBC Audio",
+        "id": "139071"
+      },
+      "creators": [
+        {
+          "id": 137205,
+          "role": "Author",
+          "name": "Stephen Fry"
+        },
+        {
+          "id": 262457,
+          "role": "Narrator",
+          "name": "Emma Thompson"
+        },
+        {
+          "id": 479205,
+          "role": "Narrator",
+          "name": "Hugh Laurie"
+        },
+        {
+          "id": 100904,
+          "role": "Narrator",
+          "name": "Jim Broadbent"
+        },
+        {
+          "id": 137205,
+          "role": "Narrator",
+          "name": "Stephen Fry"
+        }
+      ],
+      "title": "Saturday Night Fry",
+      "id": "249836"
+    },
+    {
+      "library": "librariesunlimited",
+      "link": "https://librariesunlimited.overdrive.com/media/1336017",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Penguin Random House Audio Publishing Group",
+        "id": "93905"
+      },
+      "creators": [
+        {
+          "id": 429977,
+          "role": "Author",
+          "name": "Chris Grabenstein"
+        },
+        {
+          "id": 589784,
+          "role": "Author",
+          "name": "Jesse Bernstein"
+        }
+      ],
+      "title": "Escape from Mr. Lemoncello's Library",
+      "id": "1336017"
+    },
+    {
+      "library": "librariesunlimited",
+      "link": "https://librariesunlimited.overdrive.com/media/306248",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "BBC Audio",
+        "id": "139071"
+      },
+      "creators": [
+        {
+          "id": 6010,
+          "role": "Author",
+          "name": "John le Carré"
+        },
+        {
+          "id": 638178,
+          "role": "Narrator",
+          "name": "Anna Chancellor"
+        },
+        {
+          "id": 85748,
+          "role": "Narrator",
+          "name": "Full Cast"
+        },
+        {
+          "id": 152035,
+          "role": "Narrator",
+          "name": "Hugh Bonneville"
+        },
+        {
+          "id": 500405,
+          "role": "Narrator",
+          "name": "Simon Russell Beale"
+        }
+      ],
+      "title": "The Honourable Schoolboy",
+      "id": "306248"
+    },
+    {
+      "library": "librariesunlimited",
+      "link": "https://librariesunlimited.overdrive.com/media/89682",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "BBC Audio",
+        "id": "139071"
+      },
+      "creators": [
+        {
+          "id": 499857,
+          "role": "Author",
+          "name": "Barry Took"
+        },
+        {
+          "id": 807471,
+          "role": "Author",
+          "name": "Marty Feldman"
+        },
+        {
+          "id": 588702,
+          "role": "Narrator",
+          "name": "Betty Marsden"
+        },
+        {
+          "id": 574508,
+          "role": "Narrator",
+          "name": "Bill Pertwee"
+        },
+        {
+          "id": 538442,
+          "role": "Narrator",
+          "name": "Dennis Smith"
+        },
+        {
+          "id": 477827,
+          "role": "Narrator",
+          "name": "Hugh Paddick"
+        },
+        {
+          "id": 201818,
+          "role": "Narrator",
+          "name": "Kenneth Horne"
+        },
+        {
+          "id": 550492,
+          "role": "Narrator",
+          "name": "Kenneth Williams"
+        }
+      ],
+      "title": "Round the Horne  the Very Best Episodes  Volume 1",
+      "id": "89682"
+    },
+    {
+      "library": "librariesunlimited",
+      "link": "https://librariesunlimited.overdrive.com/media/144712",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "BBC Audio",
+        "id": "139071"
+      },
+      "creators": [
+        {
+          "id": 151946,
+          "role": "Author",
+          "name": "BBC"
+        },
+        {
+          "id": 439379,
+          "role": "Narrator",
+          "name": "Andrew Marr"
+        },
+        {
+          "id": 459457,
+          "role": "Narrator",
+          "name": "Barry Cryer"
+        },
+        {
+          "id": 239595,
+          "role": "Narrator",
+          "name": "Graeme Garden"
+        },
+        {
+          "id": 590417,
+          "role": "Narrator",
+          "name": "Humphrey Lyttelton"
+        },
+        {
+          "id": 336995,
+          "role": "Narrator",
+          "name": "Tim Brooke-Taylor"
+        },
+        {
+          "id": 591299,
+          "role": "Narrator",
+          "name": "Various"
+        }
+      ],
+      "title": "I'm Sorry I Haven't a Clue--In Search of Mornington Crescent",
+      "id": "144712"
+    },
+    {
+      "library": "librariesunlimited",
+      "link": "https://librariesunlimited.overdrive.com/media/2623807",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Harlequin Audio",
+        "id": "196802"
+      },
+      "creators": [
+        {
+          "id": 633424,
+          "role": "Author",
+          "name": "Debbie Macomber"
+        },
+        {
+          "id": 891688,
+          "role": "Narrator",
+          "name": "Carly Robins"
+        }
+      ],
+      "title": "Dakota Home",
+      "id": "2623807"
+    },
+    {
+      "library": "librariesunlimited",
+      "link": "https://librariesunlimited.overdrive.com/media/717213",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Naxos AudioBooks",
+        "id": "1383"
+      },
+      "creators": [
+        {
+          "id": 632578,
+          "role": "Author",
+          "name": "Rose Tremain"
+        },
+        {
+          "id": 521062,
+          "role": "Narrator",
+          "name": "Juliet Stevenson"
+        }
+      ],
+      "title": "The Road Home",
+      "id": "717213"
+    },
+    {
+      "library": "librariesunlimited",
+      "link": "https://librariesunlimited.overdrive.com/media/527212",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Random House Audio Go",
+        "id": "4739"
+      },
+      "creators": [
+        {
+          "id": 510662,
+          "role": "Author",
+          "name": "Valerie Wood"
+        },
+        {
+          "id": 522257,
+          "role": "Narrator",
+          "name": "Kim Hicks"
+        }
+      ],
+      "title": "Going Home",
+      "id": "527212"
+    },
+    {
+      "library": "librariesunlimited",
+      "link": "https://librariesunlimited.overdrive.com/media/527215",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Random House Audio Go",
+        "id": "4739"
+      },
+      "creators": [
+        {
+          "id": 566051,
+          "role": "Author",
+          "name": "Charles Webb"
+        },
+        {
+          "id": 537277,
+          "role": "Narrator",
+          "name": "William Hope"
+        }
+      ],
+      "title": "Home School",
+      "id": "527215"
+    },
+    {
+      "library": "librariesunlimited",
+      "link": "https://librariesunlimited.overdrive.com/media/5649923",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Simon & Schuster UK",
+        "id": "36808"
+      },
+      "creators": [
+        {
+          "id": 928023,
+          "role": "Author",
+          "name": "Heidi Swain"
+        },
+        {
+          "id": 621435,
+          "role": "Narrator",
+          "name": "Karen Cass"
+        }
+      ],
+      "title": "A Taste of Home",
+      "id": "5649923"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "library": "ncdl",
+      "link": "https://ncdl.overdrive.com/media/258270",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Books on Tape",
+        "id": "1686"
+      },
+      "creators": [
+        {
+          "id": 317756,
+          "role": "Author",
+          "name": "Hugh Ambrose"
+        },
+        {
+          "id": 502310,
+          "role": "Narrator",
+          "name": "Mike Chamberlain"
+        }
+      ],
+      "title": "The Pacific",
+      "id": "258270"
+    },
+    {
+      "library": "ncdl",
+      "link": "https://ncdl.overdrive.com/media/451818",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Macmillan Audio",
+        "id": "2166"
+      },
+      "creators": [
+        {
+          "id": 133519,
+          "role": "Author",
+          "name": "Michael Cunningham"
+        },
+        {
+          "id": 89769,
+          "role": "Narrator",
+          "name": "Hugh Dancy"
+        }
+      ],
+      "title": "By Nightfall",
+      "id": "451818"
+    },
+    {
+      "library": "ncdl",
+      "link": "https://ncdl.overdrive.com/media/136848",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Tantor Media, Inc.",
+        "id": "95540"
+      },
+      "creators": [
+        {
+          "id": 472022,
+          "role": "Author",
+          "name": "Hugh Lofting"
+        },
+        {
+          "id": 638622,
+          "role": "Narrator",
+          "name": "David Case"
+        }
+      ],
+      "title": "The Story of Dr. Dolittle",
+      "id": "136848"
+    },
+    {
+      "library": "ncdl",
+      "link": "https://ncdl.overdrive.com/media/3071152",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "The Great Courses",
+        "id": "126545"
+      },
+      "creators": [
+        {
+          "id": 1256175,
+          "role": "Author and narrator",
+          "name": "Malcolm W. Watson"
+        }
+      ],
+      "title": "Theories of Human Development",
+      "id": "3071152"
+    },
+    {
+      "library": "ncdl",
+      "link": "https://ncdl.overdrive.com/media/5328992",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Penguin Random House Audio Publishing Group",
+        "id": "93905"
+      },
+      "creators": [
+        {
+          "id": 452178,
+          "role": "Author",
+          "name": "Matt Haig"
+        },
+        {
+          "id": 253311,
+          "role": "Narrator",
+          "name": "Carey Mulligan"
+        }
+      ],
+      "title": "The Midnight Library",
+      "id": "5328992"
+    },
+    {
+      "library": "ncdl",
+      "link": "https://ncdl.overdrive.com/media/5217572",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Simon & Schuster Audio",
+        "id": "36805"
+      },
+      "creators": [
+        {
+          "id": 391713,
+          "role": "Author",
+          "name": "Janet Skeslien Charles"
+        },
+        {
+          "id": 1323421,
+          "role": "Narrator",
+          "name": "Nicky Diss"
+        },
+        {
+          "id": 530801,
+          "role": "Narrator",
+          "name": "Sarah Feathers"
+        },
+        {
+          "id": 1324935,
+          "role": "Narrator",
+          "name": "Esther Wane"
+        },
+        {
+          "id": 391713,
+          "role": "Narrator",
+          "name": "Janet Skeslien Charles"
+        }
+      ],
+      "title": "The Paris Library",
+      "id": "5217572"
+    },
+    {
+      "library": "ncdl",
+      "link": "https://ncdl.overdrive.com/media/3923865",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Simon & Schuster Audio",
+        "id": "36805"
+      },
+      "creators": [
+        {
+          "id": 432846,
+          "role": "Author",
+          "name": "Susan Orlean"
+        },
+        {
+          "id": 432846,
+          "role": "Narrator",
+          "name": "Susan Orlean"
+        }
+      ],
+      "title": "The Library Book",
+      "id": "3923865"
+    },
+    {
+      "library": "ncdl",
+      "link": "https://ncdl.overdrive.com/media/2298582",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Blackstone Publishing",
+        "id": "121637"
+      },
+      "creators": [
+        {
+          "id": 136209,
+          "role": "Author",
+          "name": "Ransom Riggs"
+        },
+        {
+          "id": 141905,
+          "role": "Narrator",
+          "name": "Kirby Heyborne"
+        }
+      ],
+      "title": "Library of Souls",
+      "id": "2298582"
+    },
+    {
+      "library": "ncdl",
+      "link": "https://ncdl.overdrive.com/media/4537952",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Penguin Random House Audio Publishing Group",
+        "id": "93905"
+      },
+      "creators": [
+        {
+          "id": 1871964,
+          "role": "Author",
+          "name": "A. J. Hackwith"
+        },
+        {
+          "id": 1096085,
+          "role": "Narrator",
+          "name": "Lisa Flanagan"
+        }
+      ],
+      "title": "The Library of the Unwritten",
+      "id": "4537952"
+    },
+    {
+      "library": "ncdl",
+      "link": "https://ncdl.overdrive.com/media/5170919",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Tantor Media, Inc.",
+        "id": "95540"
+      },
+      "creators": [
+        {
+          "id": 1631124,
+          "role": "Author",
+          "name": "Zeno Alexander"
+        },
+        {
+          "id": 1495332,
+          "role": "Narrator",
+          "name": "Emily Lawrence"
+        }
+      ],
+      "title": "The Library of Ever",
+      "id": "5170919"
+    },
+    {
+      "library": "ncdl",
+      "link": "https://ncdl.overdrive.com/media/1940492",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Penguin Random House Audio Publishing Group",
+        "id": "93905"
+      },
+      "creators": [
+        {
+          "id": 259712,
+          "role": "Author",
+          "name": "Haruki Murakami"
+        },
+        {
+          "id": 854597,
+          "role": "Translator",
+          "name": "Ted Goossen"
+        },
+        {
+          "id": 141905,
+          "role": "Narrator",
+          "name": "Kirby Heyborne"
+        }
+      ],
+      "title": "The Strange Library",
+      "id": "1940492"
+    },
+    {
+      "library": "ncdl",
+      "link": "https://ncdl.overdrive.com/media/2351506",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Live Oak Media",
+        "id": "1366"
+      },
+      "creators": [
+        {
+          "id": 429561,
+          "role": "Author",
+          "name": "Michelle Knudsen"
+        },
+        {
+          "id": 466,
+          "role": "Illustrator",
+          "name": "Kevin Hawkes"
+        },
+        {
+          "id": 1001308,
+          "role": "Narrator",
+          "name": "Christina Marshall"
+        }
+      ],
+      "title": "Library Lion",
+      "id": "2351506"
+    },
+    {
+      "library": "ncdl",
+      "link": "https://ncdl.overdrive.com/media/63301",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Blackstone Publishing",
+        "id": "121637"
+      },
+      "creators": [
+        {
+          "id": 133403,
+          "role": "Author",
+          "name": "Viktor E. Frankl"
+        },
+        {
+          "id": 75482,
+          "role": "Narrator",
+          "name": "Simon Vance"
+        }
+      ],
+      "title": "Man's Search for Meaning",
+      "id": "63301"
+    },
+    {
+      "library": "ncdl",
+      "link": "https://ncdl.overdrive.com/media/3462925",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Tantor Media, Inc.",
+        "id": "95540"
+      },
+      "creators": [
+        {
+          "id": 561174,
+          "role": "Author",
+          "name": "Steve Dalton"
+        },
+        {
+          "id": 502310,
+          "role": "Narrator",
+          "name": "Mike Chamberlain"
+        }
+      ],
+      "title": "The 2-Hour Job Search",
+      "id": "3462925"
+    },
+    {
+      "library": "ncdl",
+      "link": "https://ncdl.overdrive.com/media/58318",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Penton Overseas, Inc.",
+        "id": "925"
+      },
+      "creators": [
+        {
+          "id": 505563,
+          "role": "Author",
+          "name": "Charles Schaeffer"
+        },
+        {
+          "id": 512237,
+          "role": "Author",
+          "name": "Theresa Foy Digeronimo"
+        }
+      ],
+      "title": "Ages & Stages",
+      "id": "58318"
+    },
+    {
+      "library": "ncdl",
+      "link": "https://ncdl.overdrive.com/media/1420256",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Penguin Random House Audio Publishing Group",
+        "id": "93905"
+      },
+      "creators": [
+        {
+          "id": 127804,
+          "role": "Author",
+          "name": "Roald Dahl"
+        },
+        {
+          "id": 479205,
+          "role": "Narrator",
+          "name": "Hugh Laurie"
+        },
+        {
+          "id": 137205,
+          "role": "Narrator",
+          "name": "Stephen Fry"
+        },
+        {
+          "id": 858385,
+          "role": "Narrator",
+          "name": "Chris O'Dowd"
+        },
+        {
+          "id": 429581,
+          "role": "Narrator",
+          "name": "Geoffrey Palmer"
+        }
+      ],
+      "title": "Fantastic Mr. Fox and Other Animal Stories",
+      "id": "1420256"
+    },
+    {
+      "library": "ncdl",
+      "link": "https://ncdl.overdrive.com/media/303539",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Penguin Random House Audio Publishing Group",
+        "id": "93905"
+      },
+      "creators": [
+        {
+          "id": 27758,
+          "role": "Author",
+          "name": "Bill Bryson"
+        },
+        {
+          "id": 27758,
+          "role": "Author",
+          "name": "Bill Bryson"
+        }
+      ],
+      "title": "At Home",
+      "id": "303539"
+    },
+    {
+      "library": "ncdl",
+      "link": "https://ncdl.overdrive.com/media/180388",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Macmillan Audio",
+        "id": "2166"
+      },
+      "creators": [
+        {
+          "id": 94113,
+          "role": "Author",
+          "name": "Marilynne Robinson"
+        },
+        {
+          "id": 529161,
+          "role": "Narrator",
+          "name": "Maggi-Meg Reed"
+        }
+      ],
+      "title": "Home",
+      "id": "180388"
+    },
+    {
+      "library": "ncdl",
+      "link": "https://ncdl.overdrive.com/media/643003",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Scholastic Audio",
+        "id": "2752"
+      },
+      "creators": [
+        {
+          "id": 367850,
+          "role": "Author",
+          "name": "Geronimo Stilton"
+        },
+        {
+          "id": 466737,
+          "role": "Narrator",
+          "name": "Bill Lobley"
+        }
+      ],
+      "title": "The Search for Sunken Treasure & The Mummy with No Name",
+      "id": "643003"
+    },
+    {
+      "library": "ncdl",
+      "link": "https://ncdl.overdrive.com/media/250538",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Zondervan",
+        "id": "653"
+      },
+      "creators": [
+        {
+          "id": 492190,
+          "role": "Author",
+          "name": "Brian D. McLaren"
+        },
+        {
+          "id": 454932,
+          "role": "Narrator",
+          "name": "Maurice England"
+        }
+      ],
+      "title": "Finding Faith - A Search for What Is Real",
+      "id": "250538"
+    },
+    {
+      "library": "ncdl",
+      "link": "https://ncdl.overdrive.com/media/615632",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Penguin Random House Audio Publishing Group",
+        "id": "93905"
+      },
+      "creators": [
+        {
+          "id": 134378,
+          "role": "Author",
+          "name": "John Steinbeck"
+        },
+        {
+          "id": 309937,
+          "role": "Narrator",
+          "name": "Gary Sinise"
+        }
+      ],
+      "title": "Travels with Charley",
+      "id": "615632"
+    },
+    {
+      "library": "ncdl",
+      "link": "https://ncdl.overdrive.com/media/2192425",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Penguin Random House Audio Publishing Group",
+        "id": "93905"
+      },
+      "creators": [
+        {
+          "id": 429977,
+          "role": "Author",
+          "name": "Chris Grabenstein"
+        },
+        {
+          "id": 589784,
+          "role": "Narrator",
+          "name": "Jesse Bernstein"
+        }
+      ],
+      "title": "Mr. Lemoncello's Library Olympics",
+      "id": "2192425"
+    },
+    {
+      "library": "ncdl",
+      "link": "https://ncdl.overdrive.com/media/4493199",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Harlequin Audio",
+        "id": "196802"
+      },
+      "creators": [
+        {
+          "id": 1000307,
+          "role": "Author",
+          "name": "Phaedra Patrick"
+        },
+        {
+          "id": 472742,
+          "role": "Narrator",
+          "name": "Imogen Church"
+        }
+      ],
+      "title": "The Library of Lost and Found",
+      "id": "4493199"
+    },
+    {
+      "library": "ncdl",
+      "link": "https://ncdl.overdrive.com/media/3601554",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Dreamscape Media, LLC",
+        "id": "4007"
+      },
+      "creators": [
+        {
+          "id": 276045,
+          "role": "Author",
+          "name": "Felicity Hayes-McCoy"
+        }
+      ],
+      "title": "The Library at the Edge of the World",
+      "id": "3601554"
+    }
+  ],
+  [
+    {
+      "library": "tlc",
+      "link": "https://tlc.overdrive.com/media/149792",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Pikes Peak Library District",
+        "id": "1704"
+      },
+      "creators": [
+        {
+          "id": 313441,
+          "role": "Producer",
+          "name": "Pikes Peak Library District, Multimedia and Production Studio"
+        }
+      ],
+      "title": "Extraordinary Women of the Rocky Mountain West",
+      "id": "149792"
+    },
+    {
+      "library": "tlc",
+      "link": "https://tlc.overdrive.com/media/353905",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Las Vegas - Clark County Library District",
+        "id": "2458"
+      },
+      "creators": [
+        {
+          "id": 527082,
+          "role": "Copyright holder",
+          "name": "Las Vegas-Clark County Library District"
+        },
+        {
+          "id": 466453,
+          "role": "Interviewee",
+          "name": "Jami Carpenter"
+        },
+        {
+          "id": 517036,
+          "role": "Executive Producer",
+          "name": "Institute of Museum and Library Services"
+        },
+        {
+          "id": 282753,
+          "role": "Editor",
+          "name": "Jon White"
+        }
+      ],
+      "title": "The A,B,Cs of Editing",
+      "id": "353905"
+    },
+    {
+      "library": "tlc",
+      "link": "https://tlc.overdrive.com/media/353930",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Las Vegas - Clark County Library District",
+        "id": "2458"
+      },
+      "creators": [
+        {
+          "id": 527082,
+          "role": "Copyright holder",
+          "name": "Las Vegas-Clark County Library District"
+        },
+        {
+          "id": 111101,
+          "role": "Interviewee",
+          "name": "Tony Curtis"
+        },
+        {
+          "id": 517036,
+          "role": "Executive Producer",
+          "name": "Institute of Museum and Library Services"
+        },
+        {
+          "id": 282753,
+          "role": "Editor",
+          "name": "Jon White"
+        }
+      ],
+      "title": "An Afternoon with Tony Curtis",
+      "id": "353930"
+    },
+    {
+      "library": "tlc",
+      "link": "https://tlc.overdrive.com/media/353962",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Las Vegas - Clark County Library District",
+        "id": "2458"
+      },
+      "creators": [
+        {
+          "id": 241901,
+          "role": "Author",
+          "name": "John L. Smith"
+        },
+        {
+          "id": 527082,
+          "role": "Copyright holder",
+          "name": "Las Vegas-Clark County Library District"
+        },
+        {
+          "id": 517036,
+          "role": "Executive Producer",
+          "name": "Institute of Museum and Library Services"
+        },
+        {
+          "id": 282753,
+          "role": "Editor",
+          "name": "Jon White"
+        }
+      ],
+      "title": "Amelia’s Long Journey: The Challenge of Writing What You Know",
+      "id": "353962"
+    },
+    {
+      "library": "tlc",
+      "link": "https://tlc.overdrive.com/media/455475",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "CSA Word",
+        "id": "1974"
+      },
+      "creators": [
+        {
+          "id": 507094,
+          "role": "Author",
+          "name": "Gerald Durrell"
+        },
+        {
+          "id": 152035,
+          "role": "Narrator",
+          "name": "Hugh Bonneville"
+        }
+      ],
+      "title": "My Family and Other Animals",
+      "id": "455475"
+    },
+    {
+      "library": "tlc",
+      "link": "https://tlc.overdrive.com/media/3033094",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Random House",
+        "id": "4012"
+      },
+      "creators": [
+        {
+          "id": 538290,
+          "role": "Author",
+          "name": "Hugh Howey"
+        },
+        {
+          "id": 313251,
+          "role": "Narrator",
+          "name": "Susannah Harker"
+        }
+      ],
+      "title": "Wool",
+      "id": "3033094"
+    },
+    {
+      "library": "tlc",
+      "link": "https://tlc.overdrive.com/media/3032537",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Random House",
+        "id": "4012"
+      },
+      "creators": [
+        {
+          "id": 538290,
+          "role": "Author",
+          "name": "Hugh Howey"
+        },
+        {
+          "id": 202590,
+          "role": "Narrator",
+          "name": "Peter Brooke"
+        }
+      ],
+      "title": "Shift",
+      "id": "3032537"
+    },
+    {
+      "library": "tlc",
+      "link": "https://tlc.overdrive.com/media/3032000",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Random House",
+        "id": "4012"
+      },
+      "creators": [
+        {
+          "id": 538290,
+          "role": "Author",
+          "name": "Hugh Howey"
+        },
+        {
+          "id": 313251,
+          "role": "Narrator",
+          "name": "Susannah Harker"
+        }
+      ],
+      "title": "Dust",
+      "id": "3032000"
+    },
+    {
+      "library": "tlc",
+      "link": "https://tlc.overdrive.com/media/530500",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "AudioGO Ltd",
+        "id": "3858"
+      },
+      "creators": [
+        {
+          "id": 311099,
+          "role": "Author",
+          "name": "Caroline Graham"
+        },
+        {
+          "id": 525648,
+          "role": "Narrator",
+          "name": "Hugh Ross"
+        },
+        {
+          "id": 298564,
+          "role": "Copyright holder",
+          "name": "&#169;AudioGO Ltd 2011"
+        }
+      ],
+      "title": "The Killings at Badger's Drift",
+      "id": "530500"
+    },
+    {
+      "library": "tlc",
+      "link": "https://tlc.overdrive.com/media/1263795",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Penguin Random House Children's UK",
+        "id": "241402"
+      },
+      "creators": [
+        {
+          "id": 442482,
+          "role": "Author",
+          "name": "Tove Jansson"
+        },
+        {
+          "id": 513185,
+          "role": "Narrator",
+          "name": "Hugh Dennis"
+        }
+      ],
+      "title": "Finn Family Moomintroll",
+      "id": "1263795"
+    },
+    {
+      "library": "tlc",
+      "link": "https://tlc.overdrive.com/media/1263827",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Penguin Books Ltd",
+        "id": "5722"
+      },
+      "creators": [
+        {
+          "id": 66940,
+          "role": "Author",
+          "name": "Jonathan Swift"
+        },
+        {
+          "id": 479205,
+          "role": "Narrator",
+          "name": "Hugh Laurie"
+        }
+      ],
+      "title": "Gulliver's Travels",
+      "id": "1263827"
+    },
+    {
+      "library": "tlc",
+      "link": "https://tlc.overdrive.com/media/213469",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "AudioGO Ltd",
+        "id": "3858"
+      },
+      "creators": [
+        {
+          "id": 183333,
+          "role": "Author",
+          "name": "K. Wild"
+        },
+        {
+          "id": 459476,
+          "role": "Narrator",
+          "name": "Hugh Lee"
+        },
+        {
+          "id": 313450,
+          "role": "Copyright holder",
+          "name": "&#169;BBC Audiobooks Ltd 2008"
+        }
+      ],
+      "title": "Fight Game",
+      "id": "213469"
+    },
+    {
+      "library": "tlc",
+      "link": "https://tlc.overdrive.com/media/5561809",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "W F Howes",
+        "id": "166384"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "Towards Zero",
+      "id": "5561809"
+    },
+    {
+      "library": "tlc",
+      "link": "https://tlc.overdrive.com/media/5561681",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "W F Howes",
+        "id": "166384"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The Unexpected Guest",
+      "id": "5561681"
+    },
+    {
+      "library": "tlc",
+      "link": "https://tlc.overdrive.com/media/5561622",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "W F Howes",
+        "id": "166384"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The Sittaford Mystery",
+      "id": "5561622"
+    },
+    {
+      "library": "tlc",
+      "link": "https://tlc.overdrive.com/media/5561579",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "W F Howes",
+        "id": "166384"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The Secret of Chimneys",
+      "id": "5561579"
+    },
+    {
+      "library": "tlc",
+      "link": "https://tlc.overdrive.com/media/5561566",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "W F Howes",
+        "id": "166384"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The Secret Adversary",
+      "id": "5561566"
+    },
+    {
+      "library": "tlc",
+      "link": "https://tlc.overdrive.com/media/5561456",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "W F Howes",
+        "id": "166384"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The Pale Horse",
+      "id": "5561456"
+    },
+    {
+      "library": "tlc",
+      "link": "https://tlc.overdrive.com/media/5561422",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "W F Howes",
+        "id": "166384"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The Mysterious Mr Quin",
+      "id": "5561422"
+    },
+    {
+      "library": "tlc",
+      "link": "https://tlc.overdrive.com/media/5561311",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "W F Howes",
+        "id": "166384"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The Listerdale Mystery",
+      "id": "5561311"
+    },
+    {
+      "library": "tlc",
+      "link": "https://tlc.overdrive.com/media/5560969",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "W F Howes",
+        "id": "166384"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The Adventure of the Christmas Pudding",
+      "id": "5560969"
+    },
+    {
+      "library": "tlc",
+      "link": "https://tlc.overdrive.com/media/5560912",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "W F Howes",
+        "id": "166384"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "Spider's Web",
+      "id": "5560912"
+    },
+    {
+      "library": "tlc",
+      "link": "https://tlc.overdrive.com/media/5560907",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "W F Howes",
+        "id": "166384"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "Sparkling Cyanide",
+      "id": "5560907"
+    },
+    {
+      "library": "tlc",
+      "link": "https://tlc.overdrive.com/media/5560799",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "W F Howes",
+        "id": "166384"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "Postern of Fate",
+      "id": "5560799"
+    }
+  ],
+  [
+    {
+      "library": "odmc",
+      "link": "https://odmc.overdrive.com/media/936892",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 129861,
+          "role": "Author",
+          "name": "Shelley Shepard Gray"
+        },
+        {
+          "id": 167134,
+          "role": "Narrator",
+          "name": "Bernadette Dunne"
+        }
+      ],
+      "title": "The Search",
+      "id": "936892"
+    },
+    {
+      "library": "odmc",
+      "link": "https://odmc.overdrive.com/media/543879",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Scholastic Audio",
+        "id": "2752"
+      },
+      "creators": [
+        {
+          "id": 537092,
+          "role": "Author",
+          "name": "Gordon Korman"
+        },
+        {
+          "id": 569403,
+          "role": "Narrator",
+          "name": "Andrew Rannells"
+        },
+        {
+          "id": 574216,
+          "role": "Narrator",
+          "name": "Christie Moreau"
+        }
+      ],
+      "title": "The Search",
+      "id": "543879"
+    },
+    {
+      "library": "odmc",
+      "link": "https://odmc.overdrive.com/media/482115",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Oasis Audio",
+        "id": "6303"
+      },
+      "creators": [
+        {
+          "id": 538509,
+          "role": "Author",
+          "name": "Suzanne Woods Fisher"
+        },
+        {
+          "id": 333211,
+          "role": "Narrator",
+          "name": "Cassandra Campbell"
+        }
+      ],
+      "title": "The Search",
+      "id": "482115"
+    },
+    {
+      "library": "odmc",
+      "link": "https://odmc.overdrive.com/media/2246450",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Tantor Media, Inc.",
+        "id": "95540"
+      },
+      "creators": [
+        {
+          "id": 364709,
+          "role": "Author",
+          "name": "Mark Tufo"
+        },
+        {
+          "id": 381355,
+          "role": "Narrator",
+          "name": "Sean Runnette"
+        }
+      ],
+      "title": "Dr. Hugh Mann",
+      "id": "2246450"
+    },
+    {
+      "library": "odmc",
+      "link": "https://odmc.overdrive.com/media/970730",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "Hercule Poirot's Christmas",
+      "id": "970730"
+    },
+    {
+      "library": "odmc",
+      "link": "https://odmc.overdrive.com/media/981920",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The Mystery of the Blue Train",
+      "id": "981920"
+    },
+    {
+      "library": "odmc",
+      "link": "https://odmc.overdrive.com/media/970799",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The Big Four",
+      "id": "970799"
+    },
+    {
+      "library": "odmc",
+      "link": "https://odmc.overdrive.com/media/970794",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The ABC Murders",
+      "id": "970794"
+    },
+    {
+      "library": "odmc",
+      "link": "https://odmc.overdrive.com/media/1002953",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The Mysterious Affair at Styles",
+      "id": "1002953"
+    },
+    {
+      "library": "odmc",
+      "link": "https://odmc.overdrive.com/media/970670",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "Cat Among the Pigeons",
+      "id": "970670"
+    },
+    {
+      "library": "odmc",
+      "link": "https://odmc.overdrive.com/media/970719",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "Five Little Pigs",
+      "id": "970719"
+    },
+    {
+      "library": "odmc",
+      "link": "https://odmc.overdrive.com/media/981925",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "Three Act Tragedy",
+      "id": "981925"
+    },
+    {
+      "library": "odmc",
+      "link": "https://odmc.overdrive.com/media/970680",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "Curtain: Poirot's Last Case",
+      "id": "970680"
+    },
+    {
+      "library": "odmc",
+      "link": "https://odmc.overdrive.com/media/970738",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "Mrs. McGinty's Dead",
+      "id": "970738"
+    },
+    {
+      "library": "odmc",
+      "link": "https://odmc.overdrive.com/media/970804",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The Clocks",
+      "id": "970804"
+    },
+    {
+      "library": "odmc",
+      "link": "https://odmc.overdrive.com/media/1076463",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "Crooked House & Endless Night ",
+      "id": "1076463"
+    },
+    {
+      "library": "odmc",
+      "link": "https://odmc.overdrive.com/media/258270",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Books on Tape",
+        "id": "1686"
+      },
+      "creators": [
+        {
+          "id": 317756,
+          "role": "Author",
+          "name": "Hugh Ambrose"
+        },
+        {
+          "id": 502310,
+          "role": "Narrator",
+          "name": "Mike Chamberlain"
+        }
+      ],
+      "title": "The Pacific",
+      "id": "258270"
+    },
+    {
+      "library": "odmc",
+      "link": "https://odmc.overdrive.com/media/1076462",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperCollins",
+        "id": "582"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        },
+        {
+          "id": 136035,
+          "role": "Copyright holder",
+          "name": "&#169;2003, 2004 by HarperCollinsPublishers"
+        }
+      ],
+      "title": "Towards Zero and Ordeal by Innocence",
+      "id": "1076462"
+    },
+    {
+      "library": "odmc",
+      "link": "https://odmc.overdrive.com/media/970661",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "By the Pricking of My Thumbs",
+      "id": "970661"
+    },
+    {
+      "library": "odmc",
+      "link": "https://odmc.overdrive.com/media/1172256",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The Dream",
+      "id": "1172256"
+    },
+    {
+      "library": "odmc",
+      "link": "https://odmc.overdrive.com/media/970746",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "Murder Is Easy",
+      "id": "970746"
+    },
+    {
+      "library": "odmc",
+      "link": "https://odmc.overdrive.com/media/1155197",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The Case of the Missing Lady",
+      "id": "1155197"
+    },
+    {
+      "library": "odmc",
+      "link": "https://odmc.overdrive.com/media/1155193",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The Adventure of the Sinister Stranger",
+      "id": "1155193"
+    },
+    {
+      "library": "odmc",
+      "link": "https://odmc.overdrive.com/media/970789",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "Taken at the Flood",
+      "id": "970789"
+    }
+  ],
+  [
+    {
+      "library": "bpl",
+      "link": "https://bpl.overdrive.com/media/4825579",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Penguin Random House Audio Publishing Group",
+        "id": "93905"
+      },
+      "creators": [
+        {
+          "id": 187261,
+          "role": "Author",
+          "name": "Lauren Sandler"
+        },
+        {
+          "id": 187261,
+          "role": "Author",
+          "name": "Lauren Sandler"
+        }
+      ],
+      "title": "This Is All I Got",
+      "id": "4825579"
+    },
+    {
+      "library": "bpl",
+      "link": "https://bpl.overdrive.com/media/936892",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 129861,
+          "role": "Author",
+          "name": "Shelley Shepard Gray"
+        },
+        {
+          "id": 167134,
+          "role": "Narrator",
+          "name": "Bernadette Dunne"
+        }
+      ],
+      "title": "The Search",
+      "id": "936892"
+    },
+    {
+      "library": "bpl",
+      "link": "https://bpl.overdrive.com/media/482115",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Oasis Audio",
+        "id": "6303"
+      },
+      "creators": [
+        {
+          "id": 538509,
+          "role": "Author",
+          "name": "Suzanne Woods Fisher"
+        },
+        {
+          "id": 333211,
+          "role": "Narrator",
+          "name": "Cassandra Campbell"
+        }
+      ],
+      "title": "The Search",
+      "id": "482115"
+    },
+    {
+      "library": "bpl",
+      "link": "https://bpl.overdrive.com/media/134415",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "The Free Library of Philadelphia",
+        "id": "1968"
+      },
+      "creators": [
+        {
+          "id": 68963,
+          "role": "Author",
+          "name": "Carlos Erie"
+        },
+        {
+          "id": 599547,
+          "role": "Producer",
+          "name": "Free Library of Philadelphia"
+        }
+      ],
+      "title": "Free Library of Philadelphia Presents: Carlos Erie - Waiting for Snow in Havana 3-15-07",
+      "id": "134415"
+    },
+    {
+      "library": "bpl",
+      "link": "https://bpl.overdrive.com/media/717106",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Naxos AudioBooks",
+        "id": "1383"
+      },
+      "creators": [
+        {
+          "id": 525648,
+          "role": "Narrator",
+          "name": "Hugh Ross"
+        }
+      ],
+      "title": "On the Nature of Things",
+      "id": "717106"
+    },
+    {
+      "library": "bpl",
+      "link": "https://bpl.overdrive.com/media/4245372",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Blackstone Publishing",
+        "id": "121637"
+      },
+      "creators": [
+        {
+          "id": 265084,
+          "role": "Author",
+          "name": "Hugh Ryan"
+        },
+        {
+          "id": 265084,
+          "role": "Narrator",
+          "name": "Hugh Ryan"
+        }
+      ],
+      "title": "When Brooklyn Was Queer",
+      "id": "4245372"
+    },
+    {
+      "library": "bpl",
+      "link": "https://bpl.overdrive.com/media/4229655",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Penguin Random House Audio Publishing Group",
+        "id": "93905"
+      },
+      "creators": [
+        {
+          "id": 548988,
+          "role": "Author",
+          "name": "New York Public Library"
+        },
+        {
+          "id": 129053,
+          "role": "Author",
+          "name": "Edmund White"
+        },
+        {
+          "id": 591299,
+          "role": "Author",
+          "name": "Various"
+        }
+      ],
+      "title": "The Stonewall Reader",
+      "id": "4229655"
+    },
+    {
+      "library": "bpl",
+      "link": "https://bpl.overdrive.com/media/4547931",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Blackstone Publishing",
+        "id": "121637"
+      },
+      "creators": [
+        {
+          "id": 756192,
+          "role": "Author",
+          "name": "Carmen DeSousa"
+        },
+        {
+          "id": 1881243,
+          "role": "Narrator",
+          "name": "Austin Walp"
+        }
+      ],
+      "title": "The Library",
+      "id": "4547931"
+    },
+    {
+      "library": "bpl",
+      "link": "https://bpl.overdrive.com/media/981918",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The Murder of Roger Ackroyd",
+      "id": "981918"
+    },
+    {
+      "library": "bpl",
+      "link": "https://bpl.overdrive.com/media/970730",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "Hercule Poirot's Christmas",
+      "id": "970730"
+    },
+    {
+      "library": "bpl",
+      "link": "https://bpl.overdrive.com/media/981920",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The Mystery of the Blue Train",
+      "id": "981920"
+    },
+    {
+      "library": "bpl",
+      "link": "https://bpl.overdrive.com/media/970799",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The Big Four",
+      "id": "970799"
+    },
+    {
+      "library": "bpl",
+      "link": "https://bpl.overdrive.com/media/970794",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The ABC Murders",
+      "id": "970794"
+    },
+    {
+      "library": "bpl",
+      "link": "https://bpl.overdrive.com/media/970750",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "Murder on the Links",
+      "id": "970750"
+    },
+    {
+      "library": "bpl",
+      "link": "https://bpl.overdrive.com/media/970725",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "Hallowe'en Party",
+      "id": "970725"
+    },
+    {
+      "library": "bpl",
+      "link": "https://bpl.overdrive.com/media/90621",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Blackstone Publishing",
+        "id": "121637"
+      },
+      "creators": [
+        {
+          "id": 564529,
+          "role": "Author",
+          "name": "Thomas Sowell"
+        },
+        {
+          "id": 265284,
+          "role": "Narrator",
+          "name": "Hugh Mann"
+        }
+      ],
+      "title": "Black Rednecks and White Liberals",
+      "id": "90621"
+    },
+    {
+      "library": "bpl",
+      "link": "https://bpl.overdrive.com/media/1002953",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The Mysterious Affair at Styles",
+      "id": "1002953"
+    },
+    {
+      "library": "bpl",
+      "link": "https://bpl.overdrive.com/media/970670",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "Cat Among the Pigeons",
+      "id": "970670"
+    },
+    {
+      "library": "bpl",
+      "link": "https://bpl.overdrive.com/media/970719",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "Five Little Pigs",
+      "id": "970719"
+    },
+    {
+      "library": "bpl",
+      "link": "https://bpl.overdrive.com/media/970649",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "And Then There Were None",
+      "id": "970649"
+    },
+    {
+      "library": "bpl",
+      "link": "https://bpl.overdrive.com/media/970734",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "Lord Edgware Dies",
+      "id": "970734"
+    },
+    {
+      "library": "bpl",
+      "link": "https://bpl.overdrive.com/media/981925",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "Three Act Tragedy",
+      "id": "981925"
+    },
+    {
+      "library": "bpl",
+      "link": "https://bpl.overdrive.com/media/970808",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The Hollow",
+      "id": "970808"
+    },
+    {
+      "library": "bpl",
+      "link": "https://bpl.overdrive.com/media/970765",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "Partners in Crime",
+      "id": "970765"
+    }
+  ],
+  [
+    {
+      "library": "minuteman",
+      "link": "https://minuteman.overdrive.com/media/981918",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The Murder of Roger Ackroyd",
+      "id": "981918"
+    },
+    {
+      "library": "minuteman",
+      "link": "https://minuteman.overdrive.com/media/62178",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Blackstone Publishing",
+        "id": "121637"
+      },
+      "creators": [
+        {
+          "id": 472022,
+          "role": "Author",
+          "name": "Hugh Lofting"
+        },
+        {
+          "id": 453922,
+          "role": "Narrator",
+          "name": "William Sutherland"
+        }
+      ],
+      "title": "The Voyages of Doctor Dolittle",
+      "id": "62178"
+    },
+    {
+      "library": "minuteman",
+      "link": "https://minuteman.overdrive.com/media/6491138",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Penguin Random House Audio Publishing Group",
+        "id": "93905"
+      },
+      "creators": [
+        {
+          "id": 596521,
+          "role": "Author",
+          "name": "Nadifa Mohamed"
+        },
+        {
+          "id": 552211,
+          "role": "Narrator",
+          "name": "Hugh Quarshie"
+        }
+      ],
+      "title": "The Fortune Men",
+      "id": "6491138"
+    },
+    {
+      "library": "minuteman",
+      "link": "https://minuteman.overdrive.com/media/258270",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Books on Tape",
+        "id": "1686"
+      },
+      "creators": [
+        {
+          "id": 317756,
+          "role": "Author",
+          "name": "Hugh Ambrose"
+        },
+        {
+          "id": 502310,
+          "role": "Narrator",
+          "name": "Mike Chamberlain"
+        }
+      ],
+      "title": "The Pacific",
+      "id": "258270"
+    },
+    {
+      "library": "minuteman",
+      "link": "https://minuteman.overdrive.com/media/1155193",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The Adventure of the Sinister Stranger",
+      "id": "1155193"
+    },
+    {
+      "library": "minuteman",
+      "link": "https://minuteman.overdrive.com/media/1155194",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The Affair of the Pink Pearl",
+      "id": "1155194"
+    },
+    {
+      "library": "minuteman",
+      "link": "https://minuteman.overdrive.com/media/1155192",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The Adventure of the ‘Western Star'",
+      "id": "1155192"
+    },
+    {
+      "library": "minuteman",
+      "link": "https://minuteman.overdrive.com/media/451818",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Macmillan Audio",
+        "id": "2166"
+      },
+      "creators": [
+        {
+          "id": 133519,
+          "role": "Author",
+          "name": "Michael Cunningham"
+        },
+        {
+          "id": 89769,
+          "role": "Narrator",
+          "name": "Hugh Dancy"
+        }
+      ],
+      "title": "By Nightfall",
+      "id": "451818"
+    },
+    {
+      "library": "minuteman",
+      "link": "https://minuteman.overdrive.com/media/149883",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Blackstone Publishing",
+        "id": "121637"
+      },
+      "creators": [
+        {
+          "id": 645895,
+          "role": "Author",
+          "name": "Roddy Doyle"
+        },
+        {
+          "id": 459476,
+          "role": "Narrator",
+          "name": "Hugh Lee"
+        }
+      ],
+      "title": "The Deportees",
+      "id": "149883"
+    },
+    {
+      "library": "minuteman",
+      "link": "https://minuteman.overdrive.com/media/5425998",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "The Great Courses",
+        "id": "126545"
+      },
+      "creators": [
+        {
+          "id": 489374,
+          "role": "Author",
+          "name": "Hugh Wilford"
+        },
+        {
+          "id": 489374,
+          "role": "Narrator",
+          "name": "Hugh Wilford"
+        },
+        {
+          "id": 2042220,
+          "role": "Author",
+          "name": "The Great Courses"
+        }
+      ],
+      "title": "The Agency",
+      "id": "5425998"
+    },
+    {
+      "library": "minuteman",
+      "link": "https://minuteman.overdrive.com/media/5327687",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Tantor Media, Inc.",
+        "id": "95540"
+      },
+      "creators": [
+        {
+          "id": 1606684,
+          "role": "Author",
+          "name": "Melanie Cellier"
+        },
+        {
+          "id": 1324935,
+          "role": "Narrator",
+          "name": "Esther Wane"
+        }
+      ],
+      "title": "The Princess Search",
+      "id": "5327687"
+    },
+    {
+      "library": "minuteman",
+      "link": "https://minuteman.overdrive.com/media/1026905",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Blackstone Publishing",
+        "id": "121637"
+      },
+      "creators": [
+        {
+          "id": 433792,
+          "role": "Author",
+          "name": "Gina Gershon"
+        }
+      ],
+      "title": "In Search of Cleo",
+      "id": "1026905"
+    },
+    {
+      "library": "minuteman",
+      "link": "https://minuteman.overdrive.com/media/1002959",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        },
+        {
+          "id": 529140,
+          "role": "Narrator",
+          "name": "Christopher Lee"
+        }
+      ],
+      "title": "The Witness for the Prosecution and Other Stories",
+      "id": "1002959"
+    },
+    {
+      "library": "minuteman",
+      "link": "https://minuteman.overdrive.com/media/143718",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Simon & Schuster Audio",
+        "id": "36805"
+      },
+      "creators": [
+        {
+          "id": 573941,
+          "role": "Author",
+          "name": "Stephen Hawking"
+        },
+        {
+          "id": 210500,
+          "role": "Author",
+          "name": "Lucy Hawking"
+        },
+        {
+          "id": 89769,
+          "role": "Narrator",
+          "name": "Hugh Dancy"
+        }
+      ],
+      "title": "George's Secret Key to the Universe",
+      "id": "143718"
+    },
+    {
+      "library": "minuteman",
+      "link": "https://minuteman.overdrive.com/media/63301",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Blackstone Publishing",
+        "id": "121637"
+      },
+      "creators": [
+        {
+          "id": 133403,
+          "role": "Author",
+          "name": "Viktor E. Frankl"
+        },
+        {
+          "id": 75482,
+          "role": "Narrator",
+          "name": "Simon Vance"
+        }
+      ],
+      "title": "Man's Search for Meaning",
+      "id": "63301"
+    },
+    {
+      "library": "minuteman",
+      "link": "https://minuteman.overdrive.com/media/5351723",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Scholastic Audio",
+        "id": "2752"
+      },
+      "creators": [
+        {
+          "id": 588270,
+          "role": "Author",
+          "name": "Tracey West"
+        },
+        {
+          "id": 1907600,
+          "role": "Narrator",
+          "name": "Emily Ellet"
+        }
+      ],
+      "title": "Search for the Lightning Dragon",
+      "id": "5351723"
+    },
+    {
+      "library": "minuteman",
+      "link": "https://minuteman.overdrive.com/media/5328992",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Penguin Random House Audio Publishing Group",
+        "id": "93905"
+      },
+      "creators": [
+        {
+          "id": 452178,
+          "role": "Author",
+          "name": "Matt Haig"
+        },
+        {
+          "id": 253311,
+          "role": "Narrator",
+          "name": "Carey Mulligan"
+        }
+      ],
+      "title": "The Midnight Library",
+      "id": "5328992"
+    },
+    {
+      "library": "minuteman",
+      "link": "https://minuteman.overdrive.com/media/5217572",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Simon & Schuster Audio",
+        "id": "36805"
+      },
+      "creators": [
+        {
+          "id": 391713,
+          "role": "Author",
+          "name": "Janet Skeslien Charles"
+        },
+        {
+          "id": 1323421,
+          "role": "Narrator",
+          "name": "Nicky Diss"
+        },
+        {
+          "id": 530801,
+          "role": "Narrator",
+          "name": "Sarah Feathers"
+        },
+        {
+          "id": 1324935,
+          "role": "Narrator",
+          "name": "Esther Wane"
+        },
+        {
+          "id": 391713,
+          "role": "Narrator",
+          "name": "Janet Skeslien Charles"
+        }
+      ],
+      "title": "The Paris Library",
+      "id": "5217572"
+    },
+    {
+      "library": "minuteman",
+      "link": "https://minuteman.overdrive.com/media/3923865",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Simon & Schuster Audio",
+        "id": "36805"
+      },
+      "creators": [
+        {
+          "id": 432846,
+          "role": "Author",
+          "name": "Susan Orlean"
+        },
+        {
+          "id": 432846,
+          "role": "Narrator",
+          "name": "Susan Orlean"
+        }
+      ],
+      "title": "The Library Book",
+      "id": "3923865"
+    },
+    {
+      "library": "minuteman",
+      "link": "https://minuteman.overdrive.com/media/2298582",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Blackstone Publishing",
+        "id": "121637"
+      },
+      "creators": [
+        {
+          "id": 136209,
+          "role": "Author",
+          "name": "Ransom Riggs"
+        },
+        {
+          "id": 141905,
+          "role": "Narrator",
+          "name": "Kirby Heyborne"
+        }
+      ],
+      "title": "Library of Souls",
+      "id": "2298582"
+    },
+    {
+      "library": "minuteman",
+      "link": "https://minuteman.overdrive.com/media/4537952",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Penguin Random House Audio Publishing Group",
+        "id": "93905"
+      },
+      "creators": [
+        {
+          "id": 1871964,
+          "role": "Author",
+          "name": "A. J. Hackwith"
+        },
+        {
+          "id": 1096085,
+          "role": "Narrator",
+          "name": "Lisa Flanagan"
+        }
+      ],
+      "title": "The Library of the Unwritten",
+      "id": "4537952"
+    },
+    {
+      "library": "minuteman",
+      "link": "https://minuteman.overdrive.com/media/981908",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 422120,
+          "role": "Narrator",
+          "name": "Stephanie Cole"
+        }
+      ],
+      "title": "The Body in the Library",
+      "id": "981908"
+    },
+    {
+      "library": "minuteman",
+      "link": "https://minuteman.overdrive.com/media/5170919",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Tantor Media, Inc.",
+        "id": "95540"
+      },
+      "creators": [
+        {
+          "id": 1631124,
+          "role": "Author",
+          "name": "Zeno Alexander"
+        },
+        {
+          "id": 1495332,
+          "role": "Narrator",
+          "name": "Emily Lawrence"
+        }
+      ],
+      "title": "The Library of Ever",
+      "id": "5170919"
+    },
+    {
+      "library": "minuteman",
+      "link": "https://minuteman.overdrive.com/media/1776917",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Penguin Random House Audio Publishing Group",
+        "id": "93905"
+      },
+      "creators": [
+        {
+          "id": 510182,
+          "role": "Author",
+          "name": "Django Wexler"
+        },
+        {
+          "id": 65750,
+          "role": "Narrator",
+          "name": "Cassandra Morris"
+        }
+      ],
+      "title": "The Forbidden Library",
+      "id": "1776917"
+    }
+  ],
+  [
+    {
+      "library": "sbcldigital",
+      "link": "https://sbcldigital.overdrive.com/media/981918",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The Murder of Roger Ackroyd",
+      "id": "981918"
+    },
+    {
+      "library": "sbcldigital",
+      "link": "https://sbcldigital.overdrive.com/media/970730",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "Hercule Poirot's Christmas",
+      "id": "970730"
+    },
+    {
+      "library": "sbcldigital",
+      "link": "https://sbcldigital.overdrive.com/media/970794",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The ABC Murders",
+      "id": "970794"
+    },
+    {
+      "library": "sbcldigital",
+      "link": "https://sbcldigital.overdrive.com/media/970725",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "Hallowe'en Party",
+      "id": "970725"
+    },
+    {
+      "library": "sbcldigital",
+      "link": "https://sbcldigital.overdrive.com/media/970649",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "And Then There Were None",
+      "id": "970649"
+    },
+    {
+      "library": "sbcldigital",
+      "link": "https://sbcldigital.overdrive.com/media/970765",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "Partners in Crime",
+      "id": "970765"
+    },
+    {
+      "library": "sbcldigital",
+      "link": "https://sbcldigital.overdrive.com/media/970661",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "By the Pricking of My Thumbs",
+      "id": "970661"
+    },
+    {
+      "library": "sbcldigital",
+      "link": "https://sbcldigital.overdrive.com/media/970753",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "N or M?",
+      "id": "970753"
+    },
+    {
+      "library": "sbcldigital",
+      "link": "https://sbcldigital.overdrive.com/media/970773",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "Postern of Fate",
+      "id": "970773"
+    },
+    {
+      "library": "sbcldigital",
+      "link": "https://sbcldigital.overdrive.com/media/451818",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Macmillan Audio",
+        "id": "2166"
+      },
+      "creators": [
+        {
+          "id": 133519,
+          "role": "Author",
+          "name": "Michael Cunningham"
+        },
+        {
+          "id": 89769,
+          "role": "Narrator",
+          "name": "Hugh Dancy"
+        }
+      ],
+      "title": "By Nightfall",
+      "id": "451818"
+    },
+    {
+      "library": "sbcldigital",
+      "link": "https://sbcldigital.overdrive.com/media/3027634",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperFestival",
+        "id": "196799"
+      },
+      "creators": [
+        {
+          "id": 333905,
+          "role": "Author",
+          "name": "Michael Bond"
+        },
+        {
+          "id": 152035,
+          "role": "Narrator",
+          "name": "Hugh Bonneville"
+        }
+      ],
+      "title": "Paddington Goes to Town",
+      "id": "3027634"
+    },
+    {
+      "library": "sbcldigital",
+      "link": "https://sbcldigital.overdrive.com/media/3241950",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperFestival",
+        "id": "196799"
+      },
+      "creators": [
+        {
+          "id": 333905,
+          "role": "Author",
+          "name": "Michael Bond"
+        },
+        {
+          "id": 152035,
+          "role": "Narrator",
+          "name": "Hugh Bonneville"
+        }
+      ],
+      "title": "Paddington on Top",
+      "id": "3241950"
+    },
+    {
+      "library": "sbcldigital",
+      "link": "https://sbcldigital.overdrive.com/media/5546975",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 298251,
+          "role": "Author",
+          "name": "Laurence Bergreen"
+        },
+        {
+          "id": 218215,
+          "role": "Narrator",
+          "name": "Michael Page"
+        }
+      ],
+      "title": "In Search of a Kingdom",
+      "id": "5546975"
+    },
+    {
+      "library": "sbcldigital",
+      "link": "https://sbcldigital.overdrive.com/media/143718",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Simon & Schuster Audio",
+        "id": "36805"
+      },
+      "creators": [
+        {
+          "id": 573941,
+          "role": "Author",
+          "name": "Stephen Hawking"
+        },
+        {
+          "id": 210500,
+          "role": "Author",
+          "name": "Lucy Hawking"
+        },
+        {
+          "id": 89769,
+          "role": "Narrator",
+          "name": "Hugh Dancy"
+        }
+      ],
+      "title": "George's Secret Key to the Universe",
+      "id": "143718"
+    },
+    {
+      "library": "sbcldigital",
+      "link": "https://sbcldigital.overdrive.com/media/5328992",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Penguin Random House Audio Publishing Group",
+        "id": "93905"
+      },
+      "creators": [
+        {
+          "id": 452178,
+          "role": "Author",
+          "name": "Matt Haig"
+        },
+        {
+          "id": 253311,
+          "role": "Narrator",
+          "name": "Carey Mulligan"
+        }
+      ],
+      "title": "The Midnight Library",
+      "id": "5328992"
+    },
+    {
+      "library": "sbcldigital",
+      "link": "https://sbcldigital.overdrive.com/media/5217572",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Simon & Schuster Audio",
+        "id": "36805"
+      },
+      "creators": [
+        {
+          "id": 391713,
+          "role": "Author",
+          "name": "Janet Skeslien Charles"
+        },
+        {
+          "id": 1323421,
+          "role": "Narrator",
+          "name": "Nicky Diss"
+        },
+        {
+          "id": 530801,
+          "role": "Narrator",
+          "name": "Sarah Feathers"
+        },
+        {
+          "id": 1324935,
+          "role": "Narrator",
+          "name": "Esther Wane"
+        },
+        {
+          "id": 391713,
+          "role": "Narrator",
+          "name": "Janet Skeslien Charles"
+        }
+      ],
+      "title": "The Paris Library",
+      "id": "5217572"
+    },
+    {
+      "library": "sbcldigital",
+      "link": "https://sbcldigital.overdrive.com/media/3923865",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Simon & Schuster Audio",
+        "id": "36805"
+      },
+      "creators": [
+        {
+          "id": 432846,
+          "role": "Author",
+          "name": "Susan Orlean"
+        },
+        {
+          "id": 432846,
+          "role": "Narrator",
+          "name": "Susan Orlean"
+        }
+      ],
+      "title": "The Library Book",
+      "id": "3923865"
+    },
+    {
+      "library": "sbcldigital",
+      "link": "https://sbcldigital.overdrive.com/media/2298582",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Blackstone Publishing",
+        "id": "121637"
+      },
+      "creators": [
+        {
+          "id": 136209,
+          "role": "Author",
+          "name": "Ransom Riggs"
+        },
+        {
+          "id": 141905,
+          "role": "Narrator",
+          "name": "Kirby Heyborne"
+        }
+      ],
+      "title": "Library of Souls",
+      "id": "2298582"
+    },
+    {
+      "library": "sbcldigital",
+      "link": "https://sbcldigital.overdrive.com/media/981908",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 422120,
+          "role": "Narrator",
+          "name": "Stephanie Cole"
+        }
+      ],
+      "title": "The Body in the Library",
+      "id": "981908"
+    },
+    {
+      "library": "sbcldigital",
+      "link": "https://sbcldigital.overdrive.com/media/1776917",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Penguin Random House Audio Publishing Group",
+        "id": "93905"
+      },
+      "creators": [
+        {
+          "id": 510182,
+          "role": "Author",
+          "name": "Django Wexler"
+        },
+        {
+          "id": 65750,
+          "role": "Narrator",
+          "name": "Cassandra Morris"
+        }
+      ],
+      "title": "The Forbidden Library",
+      "id": "1776917"
+    },
+    {
+      "library": "sbcldigital",
+      "link": "https://sbcldigital.overdrive.com/media/180709",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HighBridge Company",
+        "id": "1908"
+      },
+      "creators": [
+        {
+          "id": 281823,
+          "role": "Author",
+          "name": "Stephen King"
+        },
+        {
+          "id": 2201,
+          "role": "Narrator",
+          "name": "Ken Howard"
+        },
+        {
+          "id": 647466,
+          "role": "Copyright holder",
+          "name": "(P) 1991 Penguin HighBridge Audio"
+        }
+      ],
+      "title": "The Library Policeman",
+      "id": "180709"
+    },
+    {
+      "library": "sbcldigital",
+      "link": "https://sbcldigital.overdrive.com/media/2351506",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Live Oak Media",
+        "id": "1366"
+      },
+      "creators": [
+        {
+          "id": 429561,
+          "role": "Author",
+          "name": "Michelle Knudsen"
+        },
+        {
+          "id": 466,
+          "role": "Illustrator",
+          "name": "Kevin Hawkes"
+        },
+        {
+          "id": 1001308,
+          "role": "Narrator",
+          "name": "Christina Marshall"
+        }
+      ],
+      "title": "Library Lion",
+      "id": "2351506"
+    },
+    {
+      "library": "sbcldigital",
+      "link": "https://sbcldigital.overdrive.com/media/63301",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Blackstone Publishing",
+        "id": "121637"
+      },
+      "creators": [
+        {
+          "id": 133403,
+          "role": "Author",
+          "name": "Viktor E. Frankl"
+        },
+        {
+          "id": 75482,
+          "role": "Narrator",
+          "name": "Simon Vance"
+        }
+      ],
+      "title": "Man's Search for Meaning",
+      "id": "63301"
+    },
+    {
+      "library": "sbcldigital",
+      "link": "https://sbcldigital.overdrive.com/media/5351723",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Scholastic Audio",
+        "id": "2752"
+      },
+      "creators": [
+        {
+          "id": 588270,
+          "role": "Author",
+          "name": "Tracey West"
+        },
+        {
+          "id": 1907600,
+          "role": "Narrator",
+          "name": "Emily Ellet"
+        }
+      ],
+      "title": "Search for the Lightning Dragon",
+      "id": "5351723"
+    }
+  ],
+  [
+    {
+      "library": "inglewoodpl",
+      "link": "https://inglewoodpl.overdrive.com/media/5430074",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Waterstone Media",
+        "id": "233382"
+      },
+      "creators": [
+        {
+          "id": 1795129,
+          "role": "Author",
+          "name": "Ryan Kirk"
+        },
+        {
+          "id": 1932940,
+          "role": "Narrator",
+          "name": "Andrew Tell"
+        }
+      ],
+      "title": "A Search for Home",
+      "id": "5430074"
+    },
+    {
+      "library": "inglewoodpl",
+      "link": "https://inglewoodpl.overdrive.com/media/6207916",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Penguin Random House Audio Publishing Group",
+        "id": "93905"
+      },
+      "creators": [
+        {
+          "id": 2474012,
+          "role": "Author",
+          "name": "Mondiant Dogon"
+        },
+        {
+          "id": 1475260,
+          "role": "Author",
+          "name": "Jenna Krajeski"
+        },
+        {
+          "id": 222532,
+          "role": "Narrator",
+          "name": "Dominic Hoffman"
+        }
+      ],
+      "title": "Those We Throw Away Are Diamonds",
+      "id": "6207916"
+    },
+    {
+      "library": "inglewoodpl",
+      "link": "https://inglewoodpl.overdrive.com/media/5185256",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Blackstone Publishing",
+        "id": "121637"
+      },
+      "creators": [
+        {
+          "id": 95543,
+          "role": "Author",
+          "name": "Grace Livingston Hill"
+        },
+        {
+          "id": 2082748,
+          "role": "Narrator",
+          "name": "Paula Faye Leinweber"
+        }
+      ],
+      "title": "The Search",
+      "id": "5185256"
+    },
+    {
+      "library": "inglewoodpl",
+      "link": "https://inglewoodpl.overdrive.com/media/6070110",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Tantor Media, Inc.",
+        "id": "95540"
+      },
+      "creators": [
+        {
+          "id": 983268,
+          "role": "Author",
+          "name": "Louis Cozolino"
+        },
+        {
+          "id": 1298005,
+          "role": "Narrator",
+          "name": "Stephen Bel Davies"
+        }
+      ],
+      "title": "The Development of a Therapist",
+      "id": "6070110"
+    },
+    {
+      "library": "inglewoodpl",
+      "link": "https://inglewoodpl.overdrive.com/media/5563993",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Taylor & Francis",
+        "id": "225088"
+      },
+      "creators": [
+        {
+          "id": 1670483,
+          "role": "Author",
+          "name": "Adam D. Kiš"
+        }
+      ],
+      "title": "The Development Trap",
+      "id": "5563993"
+    },
+    {
+      "library": "inglewoodpl",
+      "link": "https://inglewoodpl.overdrive.com/media/6256662",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Written Musings",
+        "id": "254220"
+      },
+      "creators": [
+        {
+          "id": 756192,
+          "role": "Author",
+          "name": "Carmen DeSousa"
+        },
+        {
+          "id": 1881243,
+          "role": "Narrator",
+          "name": "Austin Walp"
+        }
+      ],
+      "title": "The Library",
+      "id": "6256662"
+    },
+    {
+      "library": "inglewoodpl",
+      "link": "https://inglewoodpl.overdrive.com/media/5820075",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Tantor Media, Inc.",
+        "id": "95540"
+      },
+      "creators": [
+        {
+          "id": 1053131,
+          "role": "Author",
+          "name": "Stuart Kells"
+        },
+        {
+          "id": 917820,
+          "role": "Narrator",
+          "name": "Julian Elfer"
+        }
+      ],
+      "title": "The Library",
+      "id": "5820075"
+    },
+    {
+      "library": "inglewoodpl",
+      "link": "https://inglewoodpl.overdrive.com/media/5490138",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Capstone",
+        "id": "211998"
+      },
+      "creators": [
+        {
+          "id": 679517,
+          "role": "Author",
+          "name": "Capstone"
+        }
+      ],
+      "title": "The Library",
+      "id": "5490138"
+    },
+    {
+      "library": "inglewoodpl",
+      "link": "https://inglewoodpl.overdrive.com/media/5490137",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Capstone",
+        "id": "211998"
+      },
+      "creators": [
+        {
+          "id": 679517,
+          "role": "Author",
+          "name": "Capstone"
+        }
+      ],
+      "title": "The Library",
+      "id": "5490137"
+    },
+    {
+      "library": "inglewoodpl",
+      "link": "https://inglewoodpl.overdrive.com/media/6357519",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Eye On Sound",
+        "id": "254208"
+      },
+      "creators": [
+        {
+          "id": 1216143,
+          "role": "Author",
+          "name": "Diane Lucas"
+        },
+        {
+          "id": 2507063,
+          "role": "Author",
+          "name": "Marnie Stone"
+        },
+        {
+          "id": 1909402,
+          "role": "Narrator",
+          "name": "Marcus Mulenga"
+        }
+      ],
+      "title": "Work From Home Hacks Bundle, 2 in 1 Bundle",
+      "id": "6357519"
+    },
+    {
+      "library": "inglewoodpl",
+      "link": "https://inglewoodpl.overdrive.com/media/6491138",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Penguin Random House Audio Publishing Group",
+        "id": "93905"
+      },
+      "creators": [
+        {
+          "id": 596521,
+          "role": "Author",
+          "name": "Nadifa Mohamed"
+        },
+        {
+          "id": 552211,
+          "role": "Narrator",
+          "name": "Hugh Quarshie"
+        }
+      ],
+      "title": "The Fortune Men",
+      "id": "6491138"
+    },
+    {
+      "library": "inglewoodpl",
+      "link": "https://inglewoodpl.overdrive.com/media/6502336",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Dreamscape Media, LLC",
+        "id": "4007"
+      },
+      "creators": [
+        {
+          "id": 472022,
+          "role": "Author",
+          "name": "Hugh Lofting"
+        },
+        {
+          "id": 566109,
+          "role": "Narrator",
+          "name": "George Newbern"
+        }
+      ],
+      "title": "The Voyages of Doctor Dolittle",
+      "id": "6502336"
+    },
+    {
+      "library": "inglewoodpl",
+      "link": "https://inglewoodpl.overdrive.com/media/6256253",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Red Door Consulting",
+        "id": "248513"
+      },
+      "creators": [
+        {
+          "id": 68728,
+          "role": "Author",
+          "name": "Hugh Walpole"
+        },
+        {
+          "id": 2008840,
+          "role": "Narrator",
+          "name": "Cathy Dobson"
+        }
+      ],
+      "title": "Seashore Macabre",
+      "id": "6256253"
+    },
+    {
+      "library": "inglewoodpl",
+      "link": "https://inglewoodpl.overdrive.com/media/6255942",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Red Door Consulting",
+        "id": "248513"
+      },
+      "creators": [
+        {
+          "id": 68728,
+          "role": "Author",
+          "name": "Hugh Walpole"
+        },
+        {
+          "id": 2008840,
+          "role": "Narrator",
+          "name": "Cathy Dobson"
+        }
+      ],
+      "title": "Mr. Huffam",
+      "id": "6255942"
+    },
+    {
+      "library": "inglewoodpl",
+      "link": "https://inglewoodpl.overdrive.com/media/6117373",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Hugh Gallagher",
+        "id": "266463"
+      },
+      "creators": [
+        {
+          "id": 2431176,
+          "role": "Author",
+          "name": "Hugh O'Neil Gallagher"
+        },
+        {
+          "id": 2431176,
+          "role": "Narrator",
+          "name": "Hugh O'Neil Gallagher"
+        }
+      ],
+      "title": "Chicken 65",
+      "id": "6117373"
+    },
+    {
+      "library": "inglewoodpl",
+      "link": "https://inglewoodpl.overdrive.com/media/5827854",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Red Door Consulting",
+        "id": "248513"
+      },
+      "creators": [
+        {
+          "id": 68728,
+          "role": "Author",
+          "name": "Hugh Walpole"
+        },
+        {
+          "id": 2008840,
+          "role": "Narrator",
+          "name": "Cathy Dobson"
+        }
+      ],
+      "title": "The Whistle",
+      "id": "5827854"
+    },
+    {
+      "library": "inglewoodpl",
+      "link": "https://inglewoodpl.overdrive.com/media/5827842",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Red Door Consulting",
+        "id": "248513"
+      },
+      "creators": [
+        {
+          "id": 68728,
+          "role": "Author",
+          "name": "Hugh Walpole"
+        },
+        {
+          "id": 2008840,
+          "role": "Narrator",
+          "name": "Cathy Dobson"
+        }
+      ],
+      "title": "The Staircase",
+      "id": "5827842"
+    },
+    {
+      "library": "inglewoodpl",
+      "link": "https://inglewoodpl.overdrive.com/media/5827838",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Red Door Consulting",
+        "id": "248513"
+      },
+      "creators": [
+        {
+          "id": 68728,
+          "role": "Author",
+          "name": "Hugh Walpole"
+        },
+        {
+          "id": 2008840,
+          "role": "Narrator",
+          "name": "Cathy Dobson"
+        }
+      ],
+      "title": "The Silver Mask",
+      "id": "5827838"
+    },
+    {
+      "library": "inglewoodpl",
+      "link": "https://inglewoodpl.overdrive.com/media/5827727",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Red Door Consulting",
+        "id": "248513"
+      },
+      "creators": [
+        {
+          "id": 68728,
+          "role": "Author",
+          "name": "Hugh Walpole"
+        },
+        {
+          "id": 2008840,
+          "role": "Narrator",
+          "name": "Cathy Dobson"
+        }
+      ],
+      "title": "The Enemy",
+      "id": "5827727"
+    },
+    {
+      "library": "inglewoodpl",
+      "link": "https://inglewoodpl.overdrive.com/media/5826904",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Red Door Consulting",
+        "id": "248513"
+      },
+      "creators": [
+        {
+          "id": 68728,
+          "role": "Author",
+          "name": "Hugh Walpole"
+        },
+        {
+          "id": 2008840,
+          "role": "Narrator",
+          "name": "Cathy Dobson"
+        }
+      ],
+      "title": "Batchelors",
+      "id": "5826904"
+    },
+    {
+      "library": "inglewoodpl",
+      "link": "https://inglewoodpl.overdrive.com/media/5807008",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "christianaudio.com",
+        "id": "5285"
+      },
+      "creators": [
+        {
+          "id": 525648,
+          "role": "Author",
+          "name": "Hugh Ross"
+        },
+        {
+          "id": 578089,
+          "role": "Narrator",
+          "name": "Bob Souer"
+        }
+      ],
+      "title": "Why the Universe Is the Way It Is (Reasons to Believe)",
+      "id": "5807008"
+    },
+    {
+      "library": "inglewoodpl",
+      "link": "https://inglewoodpl.overdrive.com/media/5793081",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Penguin Random House Audio Publishing Group",
+        "id": "93905"
+      },
+      "creators": [
+        {
+          "id": 2352924,
+          "role": "Author",
+          "name": "Mike O'Toole"
+        },
+        {
+          "id": 93508,
+          "role": "Author",
+          "name": "Hugh Kennedy"
+        },
+        {
+          "id": 2352924,
+          "role": "Author",
+          "name": "Mike O'Toole"
+        },
+        {
+          "id": 93508,
+          "role": "Author",
+          "name": "Hugh Kennedy"
+        }
+      ],
+      "title": "The Unconventionals",
+      "id": "5793081"
+    },
+    {
+      "library": "inglewoodpl",
+      "link": "https://inglewoodpl.overdrive.com/media/5768129",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "OrangeSky Audio",
+        "id": "250680"
+      },
+      "creators": [
+        {
+          "id": 472022,
+          "role": "Author",
+          "name": "Hugh Lofting"
+        },
+        {
+          "id": 2343235,
+          "role": "Narrator",
+          "name": "Thomas Machin"
+        }
+      ],
+      "title": "Dr. Dolittle and Friends",
+      "id": "5768129"
+    },
+    {
+      "library": "inglewoodpl",
+      "link": "https://inglewoodpl.overdrive.com/media/5725638",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Book*hug Press",
+        "id": "249181"
+      },
+      "creators": [
+        {
+          "id": 633955,
+          "role": "Author",
+          "name": "Devon Code"
+        },
+        {
+          "id": 1998545,
+          "role": "Narrator",
+          "name": "Hugh Gunz"
+        }
+      ],
+      "title": "Involuntary Bliss",
+      "id": "5725638"
+    }
+  ],
+  [
+    {
+      "library": "ohdbks",
+      "link": "https://ohdbks.overdrive.com/media/936892",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 129861,
+          "role": "Author",
+          "name": "Shelley Shepard Gray"
+        },
+        {
+          "id": 167134,
+          "role": "Narrator",
+          "name": "Bernadette Dunne"
+        }
+      ],
+      "title": "The Search",
+      "id": "936892"
+    },
+    {
+      "library": "ohdbks",
+      "link": "https://ohdbks.overdrive.com/media/543879",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Scholastic Audio",
+        "id": "2752"
+      },
+      "creators": [
+        {
+          "id": 537092,
+          "role": "Author",
+          "name": "Gordon Korman"
+        },
+        {
+          "id": 569403,
+          "role": "Narrator",
+          "name": "Andrew Rannells"
+        },
+        {
+          "id": 574216,
+          "role": "Narrator",
+          "name": "Christie Moreau"
+        }
+      ],
+      "title": "The Search",
+      "id": "543879"
+    },
+    {
+      "library": "ohdbks",
+      "link": "https://ohdbks.overdrive.com/media/482115",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Oasis Audio",
+        "id": "6303"
+      },
+      "creators": [
+        {
+          "id": 538509,
+          "role": "Author",
+          "name": "Suzanne Woods Fisher"
+        },
+        {
+          "id": 333211,
+          "role": "Narrator",
+          "name": "Cassandra Campbell"
+        }
+      ],
+      "title": "The Search",
+      "id": "482115"
+    },
+    {
+      "library": "ohdbks",
+      "link": "https://ohdbks.overdrive.com/media/3214368",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Penguin Books Ltd",
+        "id": "5722"
+      },
+      "creators": [
+        {
+          "id": 259467,
+          "role": "Author",
+          "name": "Howard Linskey"
+        },
+        {
+          "id": 830307,
+          "role": "Narrator",
+          "name": "Kieran Bew"
+        }
+      ],
+      "title": "The Search",
+      "id": "3214368"
+    },
+    {
+      "library": "ohdbks",
+      "link": "https://ohdbks.overdrive.com/media/2246450",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Tantor Media, Inc.",
+        "id": "95540"
+      },
+      "creators": [
+        {
+          "id": 364709,
+          "role": "Author",
+          "name": "Mark Tufo"
+        },
+        {
+          "id": 381355,
+          "role": "Narrator",
+          "name": "Sean Runnette"
+        }
+      ],
+      "title": "Dr. Hugh Mann",
+      "id": "2246450"
+    },
+    {
+      "library": "ohdbks",
+      "link": "https://ohdbks.overdrive.com/media/149792",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Pikes Peak Library District",
+        "id": "1704"
+      },
+      "creators": [
+        {
+          "id": 313441,
+          "role": "Producer",
+          "name": "Pikes Peak Library District, Multimedia and Production Studio"
+        }
+      ],
+      "title": "Extraordinary Women of the Rocky Mountain West",
+      "id": "149792"
+    },
+    {
+      "library": "ohdbks",
+      "link": "https://ohdbks.overdrive.com/media/4229655",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Penguin Random House Audio Publishing Group",
+        "id": "93905"
+      },
+      "creators": [
+        {
+          "id": 548988,
+          "role": "Author",
+          "name": "New York Public Library"
+        },
+        {
+          "id": 129053,
+          "role": "Author",
+          "name": "Edmund White"
+        },
+        {
+          "id": 591299,
+          "role": "Author",
+          "name": "Various"
+        }
+      ],
+      "title": "The Stonewall Reader",
+      "id": "4229655"
+    },
+    {
+      "library": "ohdbks",
+      "link": "https://ohdbks.overdrive.com/media/353930",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Las Vegas - Clark County Library District",
+        "id": "2458"
+      },
+      "creators": [
+        {
+          "id": 527082,
+          "role": "Copyright holder",
+          "name": "Las Vegas-Clark County Library District"
+        },
+        {
+          "id": 111101,
+          "role": "Interviewee",
+          "name": "Tony Curtis"
+        },
+        {
+          "id": 517036,
+          "role": "Executive Producer",
+          "name": "Institute of Museum and Library Services"
+        },
+        {
+          "id": 282753,
+          "role": "Editor",
+          "name": "Jon White"
+        }
+      ],
+      "title": "An Afternoon with Tony Curtis",
+      "id": "353930"
+    },
+    {
+      "library": "ohdbks",
+      "link": "https://ohdbks.overdrive.com/media/981918",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The Murder of Roger Ackroyd",
+      "id": "981918"
+    },
+    {
+      "library": "ohdbks",
+      "link": "https://ohdbks.overdrive.com/media/970730",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "Hercule Poirot's Christmas",
+      "id": "970730"
+    },
+    {
+      "library": "ohdbks",
+      "link": "https://ohdbks.overdrive.com/media/981920",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The Mystery of the Blue Train",
+      "id": "981920"
+    },
+    {
+      "library": "ohdbks",
+      "link": "https://ohdbks.overdrive.com/media/970799",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The Big Four",
+      "id": "970799"
+    },
+    {
+      "library": "ohdbks",
+      "link": "https://ohdbks.overdrive.com/media/970794",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The ABC Murders",
+      "id": "970794"
+    },
+    {
+      "library": "ohdbks",
+      "link": "https://ohdbks.overdrive.com/media/970750",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "Murder on the Links",
+      "id": "970750"
+    },
+    {
+      "library": "ohdbks",
+      "link": "https://ohdbks.overdrive.com/media/970725",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "Hallowe'en Party",
+      "id": "970725"
+    },
+    {
+      "library": "ohdbks",
+      "link": "https://ohdbks.overdrive.com/media/90621",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "Blackstone Publishing",
+        "id": "121637"
+      },
+      "creators": [
+        {
+          "id": 564529,
+          "role": "Author",
+          "name": "Thomas Sowell"
+        },
+        {
+          "id": 265284,
+          "role": "Narrator",
+          "name": "Hugh Mann"
+        }
+      ],
+      "title": "Black Rednecks and White Liberals",
+      "id": "90621"
+    },
+    {
+      "library": "ohdbks",
+      "link": "https://ohdbks.overdrive.com/media/1002953",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The Mysterious Affair at Styles",
+      "id": "1002953"
+    },
+    {
+      "library": "ohdbks",
+      "link": "https://ohdbks.overdrive.com/media/970670",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "Cat Among the Pigeons",
+      "id": "970670"
+    },
+    {
+      "library": "ohdbks",
+      "link": "https://ohdbks.overdrive.com/media/970719",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "Five Little Pigs",
+      "id": "970719"
+    },
+    {
+      "library": "ohdbks",
+      "link": "https://ohdbks.overdrive.com/media/970649",
+      "isAvailable": true,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "And Then There Were None",
+      "id": "970649"
+    },
+    {
+      "library": "ohdbks",
+      "link": "https://ohdbks.overdrive.com/media/970734",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "Lord Edgware Dies",
+      "id": "970734"
+    },
+    {
+      "library": "ohdbks",
+      "link": "https://ohdbks.overdrive.com/media/981925",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "Three Act Tragedy",
+      "id": "981925"
+    },
+    {
+      "library": "ohdbks",
+      "link": "https://ohdbks.overdrive.com/media/970808",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "The Hollow",
+      "id": "970808"
+    },
+    {
+      "library": "ohdbks",
+      "link": "https://ohdbks.overdrive.com/media/970765",
+      "isAvailable": false,
+      "isHoldable": true,
+      "type": {
+        "name": "Audiobook",
+        "id": "audiobook"
+      },
+      "publisher": {
+        "name": "HarperAudio",
+        "id": "196793"
+      },
+      "creators": [
+        {
+          "id": 590256,
+          "role": "Author",
+          "name": "Agatha Christie"
+        },
+        {
+          "id": 259994,
+          "role": "Narrator",
+          "name": "Hugh Fraser"
+        }
+      ],
+      "title": "Partners in Crime",
+      "id": "970765"
+    }
+  ]
+]

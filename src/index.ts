@@ -53,7 +53,7 @@ const Book = {
 type BookSearchResult = Book & { library: string };
 
 const libraries = process.env.LIBRARIES?.split(",");
-const query = process.argv[1];
+const query = process.argv[process.argv.length - 1];
 
 if (!libraries) {
   console.log(
