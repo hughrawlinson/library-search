@@ -54,9 +54,9 @@ type BookSearchResult = Book & { library: string };
 
 const libraries = process.env.LIBRARIES?.split(",");
 const query = process.argv[process.argv.length - 1];
-let format = "audiobook-overdrive"
+let format = "audiobook-overdrive";
 if (process.argv[process.argv.length - 2].includes("book")) {
-  format = "ebook-kindle"
+  format = "ebook-kindle";
 }
 
 if (!libraries) {
