@@ -1,4 +1,6 @@
-#!/usr/bin/env -S node --loader ts-node/esm ./src/index.ts
+#!/usr/bin/env -S node
+/*#!/usr/bin/env -S node --loader ts-node/esm ./src/index.ts*/
+
 import fetch from "node-fetch";
 
 interface EbookType {

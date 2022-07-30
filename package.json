@@ -5,7 +5,8 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
   },
   "keywords": [],
   "author": "",
@@ -20,6 +21,6 @@
     "prettier": "^2.5.1"
   },
   "bin": {
-    "library-search": "./src/index.ts"
+    "library-search": "./build/index.js"
   }
 }
